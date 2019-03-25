@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% if "a" == "a" %}
-   my google scholar: {{ author.googlescholar }}
+   my google scholar: {{ author.name }}
 {% endif %}
 
 {% if "a" == "a" %}
