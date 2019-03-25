@@ -31,5 +31,5 @@ author_profile: true
 
 <p>Z. Chen, L. Wu, B. Qiu, <u>S. Sun</u>, and F. Jia (2014): <b>Seasonal variation of the South Equatorial Current bifurcation off Madagascar.</b> <i>J. Phys. Oceanogr.</i>, 44(2), 618–631. </p>
 
-<p> <u>S. Sun</u>, L. Wu, and B. Qiu (2013): <b>Response of the inertial recirculation to intensified stratification in a two-layer quasigeostrophic ocean circulation model.</b> <i>J. Phys. Oceanogr.</i>, 43(7), 1254–1269 [<a> href="{{ files }}/Sun_etal_2013.pdf">pdf</a>]</p>
+<p> <u>S. Sun</u>, L. Wu, and B. Qiu (2013): <b>Response of the inertial recirculation to intensified stratification in a two-layer quasigeostrophic ocean circulation model.</b> <i>J. Phys. Oceanogr.</i>, 43(7), 1254–1269 [<a href="{{ files }}/Sun_etal_2013.pdf">pdf</a>]</p>
 
