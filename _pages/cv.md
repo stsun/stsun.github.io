@@ -15,7 +15,7 @@ Education
 * M.S. in Physical Oceanography, Ocean University of China, 2013
 * Ph.D in Physical Oceanography, Scripps Institution of Oceanography, 2019 (expected)
 
-[Download my full cv here](https://stsun/github.io.files/cv.pdf)
+[Download my full cv here](https://stsun.github.io/files/cv.pdf)
 
 Publications
 ======
