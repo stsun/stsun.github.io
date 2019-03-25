@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* d
+
 
 
 [Download my full cv here](https://stsun.github.io/files/cv.pdf)
