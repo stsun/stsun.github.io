@@ -19,10 +19,17 @@ author_profile: true
 
 <p><u>S. Sun</u> and J. Liu (2017). <b>Sensitivity of the Antarctic Circumpolar Current transport to surface buoyancy conditions in the North Atlantic.</b> <i>Ocean Modell.</i>, 118, 118–129. [<a href="{{ files }}/Sun-Liu-2017-ACC.pdf">pdf</a>]</p>
 
-<p> H. Yang, L. Wu, <u>S. Sun</u>, and Z. Chen (2017): <b>Role of the South China Sea in Regulating the North Pacific Double-Gyre System.</b> <i>J. Phys. Oceanogr.</i>, 47(7), 1617–1635 </p>
+<p> H. Yang, L. Wu, <u>S. Sun</u>, and Z. Chen (2017): <b>Role of the South China Sea in Regulating the North Pacific Double-Gyre System.</b> <i>J. Phys. Oceanogr.</i>, 47(7), 1617–1635. </p>
+
+<p> H. Yang, L. Wu, <u>S. Sun</u>, and Z. Chen (2017): <b>Selective Response of the South China Sea Circulation to Summer Monsoon.</b> <i>J. Phys. Oceanogr.</i>, 47(7), 1555–1568. </p>
 
 <p><u>S. Sun</u>, I. Eisenman, and A. Stewart (2016). 
 <b>The influence of Southern Ocean surface buoyancy forcing on glacial-interglacial changes in the global deep ocean stratification.</b> 
 <i>Geophys Res Lett</i> 43, 8124-8132. [<a href="{{ files }}/Sun_et_al-2016-Geophysical_Research_Letters.pdf">pdf</a>, <a href="{{ files }}/Sun_et_al-2016-Geophysical_Research_Letters.sup-1.pdf">supplement</a>]</p>
 
+<p> H. Yang, L. Wu, <u>S. Sun</u>, and C. Zhaohui (2015): <b>Low-frequency variability of monsoon-driven circulation with application to the south china sea.</b> <i>J. Phys. Oceanogr.</i>, 45(6), 1632–1650. </p>
+
+<p>Z. Chen, L. Wu, B. Qiu, <u>S. Sun</u>, and F. Jia (2014): <b>Seasonal variation of the South Equatorial Current bifurcation off Madagascar.</b> <i>J. Phys. Oceanogr.</i>, 44(2), 618–631. </p>
+
+<p> <u>S. Sun</u>, L. Wu, and B. Qiu (2013): <b>Response of the inertial recirculation to intensified stratification in a two-layer quasigeostrophic ocean circulation model.</b> <i>J. Phys. Oceanogr.</i>, 43(7), 1254–1269 [<a> href="{{ files }}/Sun_etal_2013.pdf">pdf</a>]</p>
 
