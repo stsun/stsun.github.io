@@ -21,10 +21,4 @@ Work experience
 
 
 [Download my full cv here](https://stsun.github.io/files/cv.pdf)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
