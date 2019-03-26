@@ -33,3 +33,9 @@ author_profile: true
 
 <p> <u>S. Sun</u>, L. Wu, and B. Qiu (2013): <b>Response of the inertial recirculation to intensified stratification in a two-layer quasigeostrophic ocean circulation model.</b> <i>J. Phys. Oceanogr.</i>, 43(7), 1254–1269 [<a href="{{ files }}/Sun_etal_2013.pdf">pdf</a>]</p>
 
+
+## In-prep or submitted
+
+<p> S. Sun, I. Eisenman, L. Zanna, and A. L. Stewart : What sets the depth of the Atlantic Meridional Overturning Circulation? in prep for J. Clim. </p>
+
+<p> S. Sun and I. Eisenman: Influence of sea ice motion on the Antarctic sea ice expansion. in prep </p>
