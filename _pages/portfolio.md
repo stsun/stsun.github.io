@@ -17,6 +17,8 @@ author_profile: true
 </li>
 </ul>
 
+![Logo Jekyll](http://memofil.github.io/assets/images/categories/jekyll-logo.png)
+
 ## Deep Ocean Stratification
 
 
