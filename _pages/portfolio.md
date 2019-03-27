@@ -10,7 +10,12 @@ author_profile: true
 {% assign pdir = "https://stsun.github.io/files" %}
 
 ## What sets the AMOC depth?
-![AMOC]({{pdir}}/AMOC-Depth.pdf}
+![AMOC]({{pdir}}/AMOC-Depth.pdf)
+<ul>
+<li  markdown="1">
+![Logo Jekyll]({{pdir}}/AMOC-Depth.pdf)
+</li>
+</ul>
 
 ## Deep Ocean Stratification
 
