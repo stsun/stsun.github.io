@@ -35,7 +35,8 @@ author_profile: true
 
 
 ## In-prep or submitted
-
+<!---
 <p> S. Sun, I. Eisenman, L. Zanna, and A. L. Stewart : What sets the depth of the Atlantic Meridional Overturning Circulation? in prep for J. Clim. </p>
 
 <p> S. Sun and I. Eisenman: Influence of sea ice motion on the Antarctic sea ice expansion. in prep </p>
+-->
