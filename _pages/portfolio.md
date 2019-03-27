@@ -1,14 +1,16 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## What sets the AMOC depth?
+{% assign pdir = "https://stsun.github.io/files" %}
 
+## What sets the AMOC depth?
+![AMOC]({{pdir}}/AMOC-Depth.pdf}
 
 ## Deep Ocean Stratification
 
