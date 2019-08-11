@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * B.S. in Marine Science, Ocean University of China, 2011
-* M.S. in Physical Oceanography, Ocean University of China, 2013
-* Ph.D in Physical Oceanography, Scripps Institution of Oceanography, 2019
+* M.S. in Physical Oceanography, Ocean University of China, 2013 (Advisor: Prof. Lixin Wu)
+* Ph.D in Physical Oceanography, Scripps Institution of Oceanography, 2019 (Advisor: Prof. Ian Eisenman)
 
 Work experience
 ======
-* Postdoc at Caltech, 2019-
+* Postdoc at Caltech, 2019- (Host: Prof. Andrew Thompson)
 
 
 [Download my full cv here](https://stsun.github.io/files/cv.pdf)
