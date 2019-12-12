@@ -13,5 +13,5 @@ About me
 
 I am currently a postdoc at Caltech working with Prof. [Andrew Thompson](http://web.gps.caltech.edu/~andrewt/). I defended my PhD in July, 2019 at the Scripps Institution of Oceanography, where I was advised by Prof. [Ian Eisenman](http://eisenman.ucsd.edu/). 
 
-I am broadly interested in understanding the large-scale ocean circulation and its interaction with the atmosphere and cryosphere. My research involves using a variety of models, ranging from idealized conceptual models to fully coupled climate models. For more details, see my [publications](https://stsun.github.io/publications/).
+I am broadly interested in understanding the large-scale ocean circulation and its interaction with the atmosphere and cryosphere. My research involves developing and using a variety of models that rang from idealized conceptual models to fully coupled climate models. For more details, see my [research](https://stsun.github.io/portfolio/).
 
