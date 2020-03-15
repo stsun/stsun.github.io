@@ -13,6 +13,8 @@ author_profile: true
 
 {% assign files = "https://stsun.github.io/files" %}
 
+<p><u>S. Sun</u>, A.F. Thompson, and I. Eisenman. <b>Transient overturning compensation between Atlantic and Indo-Pacific basins.</b> <i> submitted </i></p>
+
 <p><u>S. Sun</u>, I. Eisenman, L. Zanna, and A. Stewart (2020). <b>Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic.</b> <i> J. Clim. 33(8), 3125-3149. </i> [<a href="{{files}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf">pdf</a>]</p>
 
 <p><u>S. Sun</u>, I. Eisenman, and A. Stewart (2018). <b>Does Southern Ocean surface forcing shape the global ocean overturning circulation?</b> <i>Geophys. Res. Lett.</i> 45, 2413-2423. [<a href="{{ files }}/Sun_et_al-2018-Geophysical_Research_Letters.pdf">pdf</a>, <a href="{{ files }}/Sun_et_al-2018-Geophysical_Research_Letters.sup.pdf">supplement</a>]</p>
