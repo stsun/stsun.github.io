@@ -9,6 +9,13 @@ author_profile: true
 
 {% assign pdir = "https://stsun.github.io/files" %}
 
+## Transient overturning compensation between Atlantic and Indo-Pacific basins
+
+Coming soon. 
+
+Ref: [Sun et al. submitted]
+
+
 ## What sets the AMOC depth?
 <img src="{{pdir}}/AMOC-Depth.png" alt="drawing" width="500"/>
 
