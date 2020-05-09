@@ -13,7 +13,9 @@ author_profile: true
 
 {% assign files = "https://stsun.github.io/files" %}
 
-<p><u>S. Sun</u>, A. F. Thompson, and I. Eisenman. <b>Transient overturning compensation between Atlantic and Indo-Pacific basins.</b> <i> submitted </i></p>
+<p><u>S. Sun</u> and I. Eisenman. <b> Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. </b> <i> submitted. </i></p>
+
+<p><u>S. Sun</u>, A. F. Thompson, and I. Eisenman. <b>Transient overturning compensation between Atlantic and Indo-Pacific basins.</b> <i> submitted. </i></p>
 
 <p><u>S. Sun</u>, I. Eisenman, L. Zanna, and A. Stewart (2020). <b>Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic.</b> <i> J. Clim. 33(8), 3125-3149. </i> [<a href="{{files}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf">pdf</a>]</p>
 
