@@ -4,10 +4,8 @@
 # momentum and thickness equation
 
 import time
-import pythonstartup as ps
 from glob import glob
 from RGM import *
-from matplotlib import pyplot as plt
 from subprocess import call
 
 if restart:
