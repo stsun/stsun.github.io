@@ -1,0 +1,171 @@
+'''Here the model parameters, including the geometry, are
+defined. These parameters can be modified as needed.
+
+-- Shantong Sun, May 6, 2019
+
+Some updates:
+(1) The short continent is extended to the same length with the long continent to remove the supergyre
+(2) The output precision is improved
+---Shantong Sun, Jan. 7, 2020
+'''
+
+import numpy as np
+import pickle
+
+# some constant
+PI     = np.pi
+rearth = 6.371e6  # earth radius
+p5     = 0.5
+
+
+runname="Control"
+## Model parameters
+CartesianGrid  = False      # True for Cartesian, False for SphericalPolarGrid
+
+#-- Grid Resolution
+nx     = 180
+ny     = 144
+dxspace= 1.0      # 1 degree if CartesianGrid=False, otherwise in meters
+dyspace= 1.0
+if CartesianGrid:
+    # beta plane
+    print("Warning: code not complete for cartesian grid!!!")
+else:
+    lat    = (np.arange(0, ny) + 0.5 - ny/2) * dyspace   # define latitude
+    lon    = (np.arange(0, nx) + 0.5)*dxspace     # T-cell 
+    Ulat    = lat
+    Ulon    = lon + 0.5
+    Vlat    = lat + 0.5
+    Vlon    = lon
+    f       = np.ones((ny, nx))
+    for i in range(0, nx):
+        f[:,i] = 2 * (2*PI)/86400.0 * np.sin(lat * PI/180.0)
+
+#-- Time steps
+dt        = 3600.0    # in seconds
+restart   = True
+#nIter0    = 2198520        # 0 for fresh start; otherwise I will look for pickup files
+#nSteps    = 10000000      # How long I will run
+nyear     = 600        # number of years
+monFreq   = 86400       # monitor frequency
+diagFreq  = 2592000     # diagnostic frequency
+pickupFreq= 31104000    # pickup files every year; will only keep the last one
+new_diag  = True
+resubmit = 0
+PerturbStart = 0.
+
+#-- Parameters
+Ah     = 1.0e4
+rb     = 0.0
+rho0   = 1035.0
+# minimum depth of each layer: an relaxation will be introduced to
+# parameterize the water mass transformation
+minH   = 10.0
+Kgm    = 1000.0   # eddy thickness diffusivity in the eddy parameterization
+tau_relax    = 10     # a relaxation to minH in days in the south margin
+strong_relax = 3600
+# reduced gravity
+g      = 0.02
+# diapycnal diffusivity (may be modified to reflect a vertical profile)
+kappa  = 2.0e-5
+
+# magnitude of wind stress forcing
+tau0   = 0.15
+y_tau  = -50
+# magnitude of NADW in Sv
+nadw    = 12.0   
+dyNADW  = 5      # nadw distributed in the Northernmost 5 grid point
+# only no slip boundary condition is applied
+no_slip = True
+A_NADW  = 4      # amplitude of the NADW
+T_NADW  = 0      # years (period)
+Include_Gyre  = 0  # if 0, the wind stress forcing is set zero outside of the Southern Ocean
+
+
+## Define model geometry
+def def_geometry():
+    '''
+    1 for ocean, 0 for land
+    '''
+    msk  = np.ones((ny, nx))
+    # Northern and Southern Boundary
+    msk[-1, :] = 0
+    msk[0,  :] = 0
+    # Western and Eastern: 45S
+    msk[28:,  0:2] = 0
+    msk[28:, -2:] = 0
+    # Africa
+    msk[28:, 60] = 0
+    # shorter Pacific
+    msk[-20:, 60:] = 0
+
+    # define atlantic
+    atl           = np.zeros((ny, nx))
+    atl[28:, :60] = msk[28:, :60]
+    pac           = np.zeros((ny, nx))
+    pac[28:, 60:] = msk[28:, 60:]
+
+    return msk,atl,pac
+msk,atl,pac  = def_geometry()
+
+# define the grid resolution
+def def_grid():
+    '''
+    Here we generate the grid information -- resolution
+    '''
+    dx   = np.zeros((ny, nx))
+    dy   = np.zeros((ny, nx))
+    dxV  = np.zeros((ny, nx))
+    if CartesianGrid:
+        dx = dxspace
+        dy = dyspace
+        print("Code for Cartesian not complete!!!")
+    else:  # spherical polar grid
+        for i in range(0, nx):
+            dy[:,i] = rearth * dyspace * PI/180.0
+            dx[:,i] = rearth * np.cos(lat * PI/180.0) * dxspace * PI/180.0
+            dxV[:,i] = rearth * np.cos(Vlat * PI/180.0) * dxspace * PI/180.0
+
+    return dx,dy,dxV
+dx,dy,dxV = def_grid()
+dxdy  = dx*dy
+A_ATL = np.sum(dxdy*atl)
+A_PAC = np.sum(dxdy*pac)
+
+# define the wind stress forcing
+def def_wind():
+    '''
+    Here we have a westerly that only exists in the Southern Ocean
+    '''
+    if Include_Gyre == 1:
+        yr    = lat*2/ny/dyspace
+        amp   = 0.5 * np.exp(-(lat+25)**2/25) + 1
+        amp[lat<-25] = 1.5
+        tau1d = (tau0/1.5 * (-np.cos(3*np.pi/2*yr) + 0.8 * np.exp(-yr**2/0.016))) * amp
+    else:
+        tau1d  = tau0 * np.exp(-(lat-y_tau)**2/100)  # max at y_tau
+    taux   = np.repeat(tau1d.reshape(ny, 1), nx, axis=1)
+    return taux
+taux  = def_wind()
+
+# define the nadw ... 
+def def_nadw():
+    '''
+    Here we define the NADW downwelling: distributed in the northernmost ...
+    '''
+    darea    = dx*dy
+    msk_nadw = np.zeros((ny, nx))
+
+    # here is where NADW is specified.
+    msk_nadw[-dyNADW:, :] = atl[-dyNADW:, :]
+    # we calculate the area of NADW
+    area     = np.sum(darea*msk_nadw)
+    w0       = nadw * 1e6/area
+    wNADW    = w0 * msk_nadw
+    
+    return wNADW   # note that this is positive
+    
+wNADW = def_nadw()
+    
+
+    

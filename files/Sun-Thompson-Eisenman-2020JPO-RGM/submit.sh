@@ -1,0 +1,11 @@
+#!/bin/bash -l
+#SBATCH -J RGM
+#SBATCH -o output_%j.txt
+#SBATCH -n 1
+#SBATCH --nodes=1
+#SBATCH --mem-per-cpu=1G
+#SBATCH -t 48:00:00
+#SBATCH --mail-user=shantong@caltech.edu
+#SBATCH --mail-type=end                 # email me when the job finishes
+
+./driver.py
