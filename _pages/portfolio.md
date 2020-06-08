@@ -12,7 +12,8 @@ author_profile: true
 ## Inter-basin overturning circulation
 
 <img src="{{pdir}}/ROC_Change_LENS_CESM.png" alt="drawing" width="900"/>
-[Upper panels: MOC streamfunction averaged between 2006-2015 (top) and its changes from 2006-2015 to 2090-2100 (bottom), simulated by CESM. 
+
+[MOC streamfunction averaged between 2006-2015 (top) and its changes from 2006-2015 to 2090-2100 (bottom), simulated by CESM.]
 
 Climate models consistently project (i) a decline in the formation of North Atlantic Deep Water (NADW) and (ii) a strengthening of the Southern Hemisphere westerly winds in response to anthropogenic greenhouse gas forcing.  These two processes suggest potentially conflicting tendencies of the Atlantic Meridional Overturning Circulation (AMOC): a weakening AMOC due to changes in the North Atlantic but a strengthening AMOC due to changes in the Southern Ocean.
 
@@ -32,8 +33,7 @@ Ref: [Sun et al. (2018)]({{pdir}}/Sun_et_al-2018-Geophysical_Research_Letters.pd
 
 <img src="{{pdir}}/Stratification.png" alt="drawing" width="500"/>
 
-Previous studies have suggested that the global ocean density stratification below ∼3000 m is approximately set by its direct connection to the Southern Ocean surface density, which in turn is constrained by the atmosphere. Here the role of Southern Ocean surface forcing in glacial-interglacial stratification changes is investigated using a comprehensive climate model and an idealized conceptual model. Southern Ocean surface forcing is found to control the global deep ocean stratification up to ∼2000 m, which is much shallower than previously thought and contrary to the expectation that the North Atlantic surface forcing should strongly influence the ocean at intermediate depths. We show
-that this is due to the approximately fixed surface freshwater fluxes, rather than a fixed surface density distribution in the Southern Ocean as was previously assumed. These results suggest that Southern Ocean surface freshwater forcing controls glacial-interglacial stratification changes in much of the deep ocean.
+Previous studies have suggested that the global ocean density stratification below ∼3000 m is approximately set by its direct connection to the Southern Ocean surface density, which in turn is constrained by the atmosphere. Here the role of Southern Ocean surface forcing in glacial-interglacial stratification changes is investigated using a comprehensive climate model and an idealized conceptual model. Southern Ocean surface forcing is found to control the global deep ocean stratification up to ∼2000 m, which is much shallower than previously thought and contrary to the expectation that the North Atlantic surface forcing should strongly influence the ocean at intermediate depths. We show that this is due to the approximately fixed surface freshwater fluxes, rather than a fixed surface density distribution in the Southern Ocean as was previously assumed. These results suggest that Southern Ocean surface freshwater forcing controls glacial-interglacial stratification changes in much of the deep ocean.
 
 Ref: [Sun et al. (2016)]({{pdir}}/Sun_et_al-2016-Geophysical_Research_Letters.pdf)
 
