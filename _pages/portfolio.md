@@ -9,7 +9,7 @@ author_profile: true
 
 {% assign pdir = "https://stsun.github.io/files" %}
 
-## Inter-basin overturning circulation
+## Transient overturning compensation between Atlantic and Indo-Pacific basins
 
 <img src="{{pdir}}/ROC_Change_LENS_CESM.png" alt="drawing" width="900"/>
 
