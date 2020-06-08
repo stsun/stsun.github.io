@@ -9,11 +9,11 @@ author_profile: true
 
 {% assign pdir = "https://stsun.github.io/files" %}
 
-## Transient overturning compensation between Atlantic and Indo-Pacific basins
+## Inter-basin overturning circulation
 
 Coming soon. 
 
-Ref: [Sun et al. submitted]
+Ref: [Sun et al. accepted]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf))
 
 
 ## What sets the AMOC depth?
