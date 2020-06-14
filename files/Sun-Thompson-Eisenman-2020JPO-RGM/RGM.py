@@ -1,7 +1,5 @@
 '''
 This is a 1.5-layer model for the overturning circulation.
-
-B grid will be used like POP2
 '''
 from numba import jit
 from config import *
