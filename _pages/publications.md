@@ -15,7 +15,7 @@ author_profile: true
 
 <p><u>S. Sun</u> and I. Eisenman. <b> Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. </b> <i> submitted. </i></p>
 
-<p><u>S. Sun</u>, A. F. Thompson, and I. Eisenman. <b>Transient overturning compensation between Atlantic and Indo-Pacific basins.</b> <i> accepted. </i> [<a href="{{files}}/Sun-Thompson-Eisenman-2020-JPO.pdf">pdf</a>]</p>
+<p><u>S. Sun</u>, A. F. Thompson, and I. Eisenman. <b>Transient overturning compensation between Atlantic and Indo-Pacific basins.</b> <i> accepted. </i> [<a href="{{files}}/Sun-Thompson-Eisenman-2020-JPO.pdf">pdf</a>] [<a href="https://ocean2climate.org/2020/06/25/compensating-change-in-the-indo-pacific-moc-in-response-to-the-atlantic-moc-slowdown/" A nice summary by Sang-Ki Lee in his blog </a>] </p>
 
 <p><u>S. Sun</u>, I. Eisenman, L. Zanna, and A. Stewart (2020). <b>Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic.</b> <i> J. Clim. 33(8), 3125-3149. </i> [<a href="{{files}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf">pdf</a>]</p>
 
