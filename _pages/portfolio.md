@@ -19,7 +19,7 @@ Climate models consistently project (i) a decline in the formation of North Atla
 
 We propose that the adjustment of the Indo-Pacific overturning circulation is a critical component in mediating AMOC changes. Using a hierarchy of ocean and climate models, we show that the Indo-Pacific overturning circulation provides the first response to AMOC changes through wave processes, whereas the Southern Ocean overturning circulation responds on longer (centennial to millenial) timescales that are determined by eddy diffusion processes. Changes in the Indo-Pacific overturning circulation compensate AMOC changes, which allows the Southern Ocean overturning circulation to evolve independently of the AMOC, at least over timescales up to many decades. In a warming climate, the Indo-Pacific develops an overturning circulation anomaly associated with the weakening AMOC that is characterized by a northward transport close to the surface and a southward transport in the deep ocean, which could effectively redistribute heat between the basins. Our results highlight the importance of inter-basin exchange in the response of the global ocean overturning circulation to a changing climate.
 
-Ref: [Sun et al. accepted]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf)
+Ref: [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf)<p> [<a href="https://ocean2climate.org/2020/06/25/compensating-change-in-the-indo-pacific-moc-in-response-to-the-atlantic-moc-slowdown/"> A nice summary by Sang-Ki Lee in his blog </a>] </p>
 
 
 ## What sets the AMOC depth?
@@ -27,7 +27,7 @@ Ref: [Sun et al. accepted]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf)
 
 Paleoclimate proxy data suggest that the AMOC was shallower at the Last Glacial Maximum than its preindustrial depth. Previous studies emphasized the Southern Ocean surface buoyancy forcing in setting the AMOC depth. Using a combination of model simulations and conceptual theories, we show that the dipyacnal processes, ignored in previous studies, could diminish the influece of Southern Ocean surface buoyancy forcing on the AMOC depth. A new schematic based on surface buoyancy distributions in both the Southern Ocean and the North Atlantic is proposed.
 
-Ref: [Sun et al. (2018)]({{pdir}}/Sun_et_al-2018-Geophysical_Research_Letters.pdf), [Sun and Liu (2017)]({{pdir}}/Sun-Liu-2017-ACC.pdf), [Sun et al. (2020)]({{pdir}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf)
+Ref: [Sun et al. (2018)]({{pdir}}/Sun_et_al-2018-Geophysical_Research_Letters.pdf), [Sun and Liu (2017)]({{pdir}}/Sun-Liu-2017-ACC.pdf), [Sun et al. (2020; JClim)]({{pdir}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf)
 
 ## Deep Ocean Stratification
 
