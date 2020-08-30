@@ -13,7 +13,7 @@ author_profile: true
 
 {% assign files = "https://stsun.github.io/files" %}
 
-<p><u>S. Sun</u> and A. F. Thompson <b> Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. </b> <i> submitted. </i></p>
+<p><u>S. Sun</u> and A. F. Thompson. <b> Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. </b> <i> submitted. </i></p>
 
 <p><u>S. Sun</u> and I. Eisenman. <b> Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. </b> <i> submitted. </i></p>
 
