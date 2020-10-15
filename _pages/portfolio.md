@@ -10,7 +10,7 @@ author_profile: true
 {% assign pdir = "https://stsun.github.io/files" %}
 
 ## The ocean's transient conveyor belt
-<img src="{{pdir}}/Sun-Thompson-2020.png" alt="drawing" width="900"/>
+<img src="{{pdir}}/Sun-Thompson-2020.png" alt="drawing" width="700"/>
 
 [Upper layer response to a reduced NADW formation]
 
