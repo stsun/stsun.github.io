@@ -12,7 +12,7 @@ author_profile: true
 ## The ocean's transient conveyor belt
 <img src="{{pdir}}/Sun-Thompson-2020.png" alt="drawing" width="700"/>
 
-[Upper layer response to a reduced NADW formation]
+[Upper layer response to reduced NADW formation]
 
 Climate models consistently project a robust weakening of the Indonesian Throughflow (ITF) and the Atlantic Meridional Overturning Circulation (AMOC) in response to greenhouse gas forcing. Previous studies of ITF variability have largely focused on local processes in the Indo-Pacific basin. Here, we propose that much of the centennial-scale ITF weakening is dynamically linked to changes in the Atlantic basin, and communicated between basins via wave processes. In response to an AMOC slowdown, the Indian Ocean develops a northward surface transport anomaly that converges mass and modifies sea surface height in the Indian Ocean, which weakens the ITF. We illustrate these dynamic inter-basin connections using a 1.5-layer reduced gravity model and then validate the responses in a comprehensive general circulation model. Through this transient version of the ocean's conveyor belt circulation, changes in the high-latitude North Atlantic (e.g., Arctic sea ice melt) can affect the climate in the low-latitude Indo-Pacific Ocean. An intriguing corollary is the potential to use the ITF to monitor or interpret long-term trends in the AMOC.
 
