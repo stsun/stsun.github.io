@@ -14,12 +14,12 @@ author_profile: true
 
 [Upper layer response to reduced NADW formation]
 
-The Great Ocean Conveyor Belt is a classical logo for the global ocean overturning circulation. In this paradigm, the North Atlantic Deep Water (NADW) enters the Pacific, comes back to the surface through diapycnal mixing, and returns to the Atlantic Ocean after entering the Indian Ocean as part of the Indonesian Throughflow (ITF). However, later observational studies suggested that deep waters mainly return to the surface via along-isopycnal pathways in the Southern Ocean, with ITF playing only a small role in closing the global overturning circulation.
+The great ocean conveyor belt is a classical logo for the global ocean overturning circulation. In this paradigm, the North Atlantic Deep Water (NADW) enters the Pacific, comes back to the surface through diapycnal mixing, and returns to the Atlantic Ocean after entering the Indian Ocean as part of the Indonesian Throughflow (ITF). However, later observational studies suggested that deep waters mainly return to the surface via along-isopycnal pathways in the Southern Ocean, with ITF playing only a small role in closing the global overturning circulation.
 
 Here we argue that, although the conveyor belt is not an accurate representation of the mean-state global ocean overturning circulation, it is a key component of the overturning's transient response to surface forcing perturbations. In response to an AMOC slowdown, the Indian Ocean develops a northward surface transport anomaly that converges mass and modifies sea surface height in the Indian Ocean, which weakens the ITF.
 
 
-Through this transient version of the ocean's conveyor belt circulation, changes in the high-latitude North Atlantic (e.g., Arctic sea ice melt) can affect the climate in the low-latitude Indo-Pacific Ocean. An intriguing corollary is the potential to use the ITF to monitor or interpret long-term trends in the AMOC.
+Through this transient version of the conveyor belt circulation, changes in the high-latitude North Atlantic (e.g., Arctic sea ice melt) can affect the climate in the low-latitude Indo-Pacific Ocean. An intriguing corollary is the potential to use the ITF to monitor or interpret long-term trends in the AMOC.
 
 Ref: [Sun and Thompson (2020; GRL)]({{pdir}}/Sun-Thompson-2020-GRL-ITF.pdf) and [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf)
 
