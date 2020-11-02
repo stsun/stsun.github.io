@@ -15,11 +15,11 @@ author_profile: true
 
 <p><u>S. Sun</u> and I. Eisenman. <b> Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. </b> <i> submitted. </i></p>
 
-<p><u>S. Sun</u> and A. F. Thompson. <b> Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. </b> <i> accepted. </i> [<a href="{{files}}/Sun-Thompson-2020-GRL-ITF.pdf">pdf</a>]</p>
+<p><u>S. Sun</u> and A. F. Thompson (2020). <b> Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. </b> <i> Geophys. Res. Lett. </i> 47,  e2020GL090615. [<a href="{{files}}/Sun-Thompson-2020-GRL-ITF.pdf">pdf</a>]</p>
 
-<p><u>S. Sun</u>, A. F. Thompson, and I. Eisenman (2020). <b>Transient overturning compensation between Atlantic and Indo-Pacific basins.</b> <i> J. Phys. Oceanogr., 50(8), 2151-2172. </i> [<a href="{{files}}/Sun-Thompson-Eisenman-2020-JPO.pdf">pdf</a>] </p>
+<p><u>S. Sun</u>, A. F. Thompson, and I. Eisenman (2020). <b>Transient overturning compensation between Atlantic and Indo-Pacific basins.</b> <i> J. Phys. Oceanogr., </i> 50(8), 2151-2172.  [<a href="{{files}}/Sun-Thompson-Eisenman-2020-JPO.pdf">pdf</a>] </p>
 
-<p><u>S. Sun</u>, I. Eisenman, L. Zanna, and A. Stewart (2020). <b>Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic.</b> <i> J. Clim. 33(8), 3125-3149. </i> [<a href="{{files}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf">pdf</a>]</p>
+<p><u>S. Sun</u>, I. Eisenman, L. Zanna, and A. Stewart (2020). <b>Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic.</b> <i> J. Clim., </i>  33(8), 3125-3149. [<a href="{{files}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf">pdf</a>]</p>
 
 <p><u>S. Sun</u>, I. Eisenman, and A. Stewart (2018). <b>Does Southern Ocean surface forcing shape the global ocean overturning circulation?</b> <i>Geophys. Res. Lett.</i> 45, 2413-2423. [<a href="{{ files }}/Sun_et_al-2018-Geophysical_Research_Letters.pdf">pdf</a>, <a href="{{ files }}/Sun_et_al-2018-Geophysical_Research_Letters.sup.pdf">supplement</a>]</p>
 
