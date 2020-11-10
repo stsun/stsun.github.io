@@ -13,7 +13,7 @@ author_profile: true
 
 {% assign files = "https://stsun.github.io/files" %}
 
-<p><u>S. Sun</u> and I. Eisenman. <b> Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. </b> <i> submitted. </i></p>
+<p><u>S. Sun</u> and I. Eisenman. <b> Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. </b> <i> Nat. Comm., accepted. </i></p>
 
 <p><u>S. Sun</u> and A. F. Thompson (2020). <b> Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. </b> <i> Geophys. Res. Lett. </i> 47,  e2020GL090615. [<a href="{{files}}/Sun-Thompson-2020-GRL-ITF.pdf">pdf</a>]</p>
 
