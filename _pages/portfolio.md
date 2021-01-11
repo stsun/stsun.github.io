@@ -21,7 +21,7 @@ Here we argue that, although the conveyor belt is not an accurate representation
 
 Through this transient version of the conveyor belt circulation, changes in the high-latitude North Atlantic (e.g., Arctic sea ice melt) can affect the climate in the low-latitude Indo-Pacific Ocean. An intriguing corollary is the potential to use the ITF to monitor or interpret long-term trends in the AMOC.
 
-Ref: [Sun and Thompson (2020; GRL)]({{pdir}}/Sun-Thompson-2020-GRL-ITF.pdf) and [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf)
+Ref: [Sun and Thompson (2020; GRL)]({{pdir}}/Sun-Thompson-2020-GRL-ITF.pdf) and [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf) [<a href="https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow">a research highlight</a>]
 
 ## Transient overturning compensation between Atlantic and Indo-Pacific basins
 
