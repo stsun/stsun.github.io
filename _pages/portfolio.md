@@ -9,7 +9,7 @@ author_profile: true
 
 {% assign pdir = "https://stsun.github.io/files" %}
 
-## The ocean's transient conveyor belt
+## The ocean's transient conveyor belt [<a href="https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow">a research highlight</a>]
 <img src="{{pdir}}/Sun-Thompson-2020.png" alt="drawing" width="700"/>
 
 [Upper layer response to reduced NADW formation]
@@ -18,10 +18,9 @@ The great ocean conveyor belt is a classical logo for the global ocean overturni
 
 Here we argue that, although the conveyor belt is not an accurate representation of the mean-state global ocean overturning circulation, it is a key component of the overturning's transient response to surface forcing perturbations. In response to an AMOC slowdown, the Indian Ocean develops a northward surface transport anomaly that converges mass and modifies sea surface height in the Indian Ocean, which weakens the ITF.
 
-
 Through this transient version of the conveyor belt circulation, changes in the high-latitude North Atlantic (e.g., Arctic sea ice melt) can affect the climate in the low-latitude Indo-Pacific Ocean. An intriguing corollary is the potential to use the ITF to monitor or interpret long-term trends in the AMOC.
 
-Ref: [Sun and Thompson (2020; GRL)]({{pdir}}/Sun-Thompson-2020-GRL-ITF.pdf) and [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf) [<a href="https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow">a research highlight</a>]
+Ref: [Sun and Thompson (2020; GRL)]({{pdir}}/Sun-Thompson-2020-GRL-ITF.pdf) and [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf) 
 
 ## Transient overturning compensation between Atlantic and Indo-Pacific basins
 
