@@ -15,7 +15,7 @@ author_profile: true
 
 <p><u>S. Sun</u> and I. Eisenman. <b> Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. </b> <i> Nat. Comm., accepted. </i></p>
 
-<p><u>S. Sun</u> and A. F. Thompson (2020). <b> Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. </b> <i> Geophys. Res. Lett. </i> 47,  e2020GL090615. [<a href="{{files}}/Sun-Thompson-2020-GRL-ITF.pdf">pdf</a>] [<a href="https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow"> EOS Editors' Highlights </a>]</p>
+<p><u>S. Sun</u> and A. F. Thompson (2020). <b> Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. </b> <i> Geophys. Res. Lett. </i> 47,  e2020GL090615. [<a href="{{files}}/Sun-Thompson-2020-GRL-ITF.pdf">pdf</a>] [<a href="https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow">EOS highlight</a>]</p>
 
 <p><u>S. Sun</u>, A. F. Thompson, and I. Eisenman (2020). <b>Transient overturning compensation between Atlantic and Indo-Pacific basins.</b> <i> J. Phys. Oceanogr., </i> 50(8), 2151-2172.  [<a href="{{files}}/Sun-Thompson-Eisenman-2020-JPO.pdf">pdf</a>] [<a href="https://ocean2climate.org/2020/06/25/compensating-change-in-the-indo-pacific-moc-in-response-to-the-atlantic-moc-slowdown/"> a blog piece </a>] </p>
 
