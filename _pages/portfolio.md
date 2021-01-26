@@ -9,6 +9,13 @@ author_profile: true
 
 {% assign pdir = "https://stsun.github.io/files" %}
 
+## Antarctic sea ice changes
+<img src="{{pdir}}/Sun-Eisenman-2021.png" alt="drawing" width="700"/>
+
+The Antarctic sea ice area expanded significantly during 1979-2015. This is at odds with state-of-the-art climate models, which typically simulate a receding Antarctic sea ice cover in response to increasing greenhouse forcing. Here we investigate the hypothesis that this discrepancy between models and observations occurs due to simulation biases in the sea ice drift velocity. As a control we use the Community Earth System Model (CESM) Large Ensemble, which has 40 realizations of past and future climate change that all undergo Antarctic sea ice retreat during recent decades. We modify CESM to replace the simulated sea ice velocity field with a satellite-derived estimate of the observed sea ice motion, and we simulate 3 realizations of recent climate change. We find that the Antarctic sea ice expands in all 3 of these realizations, with the simulated spatial structure of the expansion bearing resemblance to observations. The results suggest that the reason CESM has failed to capture the observed Antarctic sea ice expansion is due to simulation biases in the sea ice drift velocity, implying that an improved representation of sea ice motion is crucial for more accurate sea ice projections.
+
+Ref: [Sun and Eisenman (2021)]({{pdir}}/Sun-Eisenman-2021-NCOMMS.pdf)
+
 ## The ocean's transient conveyor belt [<a href="https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow">a research highlight</a>]
 <img src="{{pdir}}/Sun-Thompson-2020.png" alt="drawing" width="700"/>
 
@@ -50,6 +57,3 @@ Previous studies have suggested that the global ocean density stratification bel
 
 Ref: [Sun et al. (2016)]({{pdir}}/Sun_et_al-2016-Geophysical_Research_Letters.pdf)
 
-## Sea Ice
-
-Coming soon ... 
