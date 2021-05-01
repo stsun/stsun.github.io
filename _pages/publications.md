@@ -14,8 +14,12 @@ author_profile: true
 {% assign files = "https://stsun.github.io/files" %}
 
 <!---
-<p>Quan, Q., Z. Liu, <u>S. Sun</u>, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang. <b> Influence of the Kuroshio Intrusion on Deep Flow Intraseasonal Variability in the Northern South China Sea.</b> <i> submitted. </i> </p>
+<p>Quan, Q., Z. Liu, <u>S. Sun</u>, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang. <b> Influence of the Kuroshio Intrusion on Deep Flow Intraseasonal Variability in the Northern South China Sea.</b> <i> submitted. </i> </wp>
 -->
+
+<p><u>Sun, S.</u>, A. F. Thompson, S.-P. Xie, and S.-M. Long. <b> Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. </b> <i> submitted. </i> </p>
+
+<p>Quan, Q., Z. Liu, <u>S. Sun</u>, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang. <b> Influence of the Kuroshio Intrusion on Deep Flow Intraseasonal Variability in the Northern South China Sea.</b> <i> submitted. </i> </p>
 
 <p><u>Sun, S.</u> and I. Eisenman (2021). <b> Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. </b> <i> Nat. Commun., 12, 1060.</i>[<a href="{{files}}/Sun-Eisenman-2021-NCOMMS.pdf">pdf</a>] [<a href="https://doi.org/10.1038/s41467-021-21412-z">Publisher's Version</a>] [<a href="https://scripps.ucsd.edu/news/simulation-vs-reality-researchers-modify-climate-model-explain-expanding-antarctic-sea-ice">a news piece</a>]</p>
 
