@@ -13,7 +13,7 @@ author_profile: true
 
 {% assign files = "https://stsun.github.io/files" %}
 
-Quan, Q., Z. Liu, _S. Sun_, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2021). **Influence of the Kuroshio Intrusion on Deep Flow Intraseasonal Variability in the Northern South China Sea.**  *J. Geophys. Res., accepted.*
+Quan, Q., Z. Liu, <u>S. Sun</u>, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2021). **Influence of the Kuroshio Intrusion on Deep Flow Intraseasonal Variability in the Northern South China Sea.**  *J. Geophys. Res., accepted.*
 
 <p><u>Sun, S.</u>, A. F. Thompson, S.-P. Xie, and S.-M. Long. <b> Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. </b> <i> submitted. </i> </p>
 
