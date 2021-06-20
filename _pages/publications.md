@@ -23,39 +23,37 @@ Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2
 
 **Sun, S.** and I. Eisenman (2021). Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. *Nat. Commun.*, 12, 1060. [[pdf,]({{files}}/Sun-Eisenman-2021-NCOMMS.pdf)  [Publisher's Version,](https://doi.org/10.1038/s41467-021-21412-z)  [a news piece](https://scripps.ucsd.edu/news/simulation-vs-reality-researchers-modify-climate-model-explain-expanding-antarctic-sea-ice)]
 
-## 2020
+### 2020
 
 **Sun, S.** and A. F. Thompson (2020). Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. *Geophys. Res. Lett.*, 47,  e2020GL090615. [[pdf, ]({{files}}/Sun-Thompson-2020-GRL-ITF.pdf) [Publisher's Version, ](https://doi.org/10.1029/2020GL090615) [Eos Editors' Highlight](https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow)]
 
-**Sun, S.**, A. F. Thompson, and I. Eisenman (2020). Transient overturning compensation between Atlantic and Indo-Pacific basins. *J. Phys. Oceanogr.*, 50(8), 2151-2172.  [[pdf,]({{files}}/Sun-Thompson-Eisenman-2020-JPO.pdf)  [Publisher's Version](https://doi.org/10.1175/JPO-D-20-0060.1)  [a blog piece](https://ocean2climate.org/2020/06/25/compensating-change-in-the-indo-pacific-moc-in-response-to-the-atlantic-moc-slowdown/)]
+**Sun, S.**, A. F. Thompson, and I. Eisenman (2020). Transient overturning compensation between Atlantic and Indo-Pacific basins. *J. Phys. Oceanogr.*, 50(8), 2151-2172.  [[pdf,]({{files}}/Sun-Thompson-Eisenman-2020-JPO.pdf)  [Publisher's Version,](https://doi.org/10.1175/JPO-D-20-0060.1)  [a blog piece](https://ocean2climate.org/2020/06/25/compensating-change-in-the-indo-pacific-moc-in-response-to-the-atlantic-moc-slowdown/)]
 
 **Sun, S.**, I. Eisenman, L. Zanna, and A. Stewart (2020). Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic. *J. Clim.*, 33(8), 3125-3149. [[pdf,]({{files}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf)  [Publisher's Version](https://doi.org/10.1175/JCLI-D-19-0546.1)]
 
-## 2018
+### 2018
 
-<p><u>Sun, S.</u>, I. Eisenman, and A. Stewart (2018). <b>Does Southern Ocean surface forcing shape the global ocean overturning circulation?</b> <i>Geophys. Res. Lett.,</i> 45, 2413-2423. [<a href="{{ files }}/Sun_et_al-2018-Geophysical_Research_Letters.pdf">pdf</a>, <a href="{{ files }}/Sun_et_al-2018-Geophysical_Research_Letters.sup.pdf">supplement</a>]</p>
+**Sun, S.**, I. Eisenman, and A. Stewart (2018). Does Southern Ocean surface forcing shape the global ocean overturning circulation? *Geophys. Res. Lett.*, 45, 2413-2423. [[pdf,]({{ files }}/Sun_et_al-2018-Geophysical_Research_Letters.pdf)  [supplement]({{ files }}/Sun_et_al-2018-Geophysical_Research_Letters.sup.pdf)]
 
-## 2017
+### 2017
 
-<p><u>Sun, S.</u> and J. Liu (2017). <b>Sensitivity of the Antarctic Circumpolar Current transport to surface buoyancy conditions in the North Atlantic.</b> <i>Ocean Modell.</i>, 118, 118–129. [<a href="{{ files }}/Sun-Liu-2017-ACC.pdf">pdf</a>]</p>
+**Sun, S.** and J. Liu (2017). Sensitivity of the Antarctic Circumpolar Current transport to surface buoyancy conditions in the North Atlantic. *Ocean Modell.*, 118, 118–129. [[pdf]({{ files }}/Sun-Liu-2017-ACC.pdf)]
 
-<p>Yang, H., L. Wu, <u>S. Sun</u>, and Z. Chen (2017): <b>Role of the South China Sea in Regulating the North Pacific Double-Gyre System.</b> <i>J. Phys. Oceanogr.</i>, 47(7), 1617–1635.[<a href="{{ files }}/Yang_etal_2017.pdf">pdf</a>] </p>
+Yang, H., L. Wu, **S. Sun**, and Z. Chen (2017): Role of the South China Sea in Regulating the North Pacific Double-Gyre System. *J. Phys. Oceanogr.*, 47(7), 1617–1635.[[pdf]({{ files }}/Yang_etal_2017.pdf)
 
-<p>Yang, H., L. Wu, <u>S. Sun</u>, and Z. Chen (2017): <b>Selective Response of the South China Sea Circulation to Summer Monsoon.</b> <i>J. Phys. Oceanogr.</i>, 47(7), 1555–1568. [<a href="{{ files }}/Yang-2017-SCSIntraSeasonal.pdf">pdf</a>]</p>
+Yang, H., L. Wu, **S. Sun**, and Z. Chen (2017): Selective Response of the South China Sea Circulation to Summer Monsoon. *J. Phys. Oceanogr.* 47(7), 1555–1568. [[pdf]({{ files }}/Yang-2017-SCSIntraSeasonal.pdf)]
 
-## 2016
+### 2016
 
-<p><u>Sun, S.</u>, I. Eisenman, and A. Stewart (2016). 
-<b>The influence of Southern Ocean surface buoyancy forcing on glacial-interglacial changes in the global deep ocean stratification.</b> 
-<i>Geophys. Res. Lett.,</i> 43, 8124-8132. [<a href="{{ files }}/Sun_et_al-2016-Geophysical_Research_Letters.pdf">pdf</a>, <a href="{{ files }}/Sun_et_al-2016-Geophysical_Research_Letters.sup-1.pdf">supplement</a>]</p>
+**Sun, S.**, I. Eisenman, and A. Stewart (2016). The influence of Southern Ocean surface buoyancy forcing on glacial-interglacial changes in the global deep ocean stratification. *Geophys. Res. Lett.*, 43, 8124-8132. [[pdf,]({{ files }}/Sun_et_al-2016-Geophysical_Research_Letters.pdf)  [supplement]({{ files }}/Sun_et_al-2016-Geophysical_Research_Letters.sup-1.pdf)]
 
-## 2013-2015
+### 2013-2015
 
-<p>Yang, H., L. Wu, <u>S. Sun</u>, and C. Zhaohui (2015): <b>Low-frequency variability of monsoon-driven circulation with application to the south china sea.</b> <i>J. Phys. Oceanogr.</i>, 45(6), 1632–1650. [<a href="{{ files }}/Yang_etal_2014.pdf">pdf</a>]</p>
+Yang, H., L. Wu, **S. Sun**, and C. Zhaohui (2015): Low-frequency variability of monsoon-driven circulation with application to the South China Sea. *J. Phys. Oceanogr.*, 45(6), 1632–1650. [[pdf]({{ files }}/Yang_etal_2014.pdf)]
 
-<p>Chen, Z., L. Wu, B. Qiu, <u>S. Sun</u>, and F. Jia (2014): <b>Seasonal variation of the South Equatorial Current bifurcation off Madagascar.</b> <i>J. Phys. Oceanogr.</i>, 44(2), 618–631. [<a href="{{ files }}/Chen_etal_2013.pdf">pdf</a>]</p>
+Chen, Z., L. Wu, B. Qiu, **S. Sun**, and F. Jia (2014): Seasonal variation of the South Equatorial Current bifurcation off Madagascar. *J. Phys. Oceanogr.*, 44(2), 618–631. [[pdf]({{ files }}/Chen_etal_2013.pdf)
 
-<p> <u>Sun, S.</u>, L. Wu, and B. Qiu (2013): <b>Response of the inertial recirculation to intensified stratification in a two-layer quasigeostrophic ocean circulation model.</b> <i>J. Phys. Oceanogr.</i>, 43(7), 1254–1269 [<a href="{{ files }}/Sun_etal_2013.pdf">pdf</a>]</p>
+**Sun, S.**, L. Wu, and B. Qiu (2013): Response of the inertial recirculation to intensified stratification in a two-layer quasigeostrophic ocean circulation model. *J. Phys. Oceanogr.*, 43(7), 1254–1269 [[pdf]({{ files }}/Sun_etal_2013.pdf)]
 
 
 
