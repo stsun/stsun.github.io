@@ -47,8 +47,7 @@ author_profile: true
 
 <p> <u>Sun, S.</u>, L. Wu, and B. Qiu (2013): <b>Response of the inertial recirculation to intensified stratification in a two-layer quasigeostrophic ocean circulation model.</b> <i>J. Phys. Oceanogr.</i>, 43(7), 1254–1269 [<a href="{{ files }}/Sun_etal_2013.pdf">pdf</a>]</p>
 
-1. Hello
-1. Hi
+
 
 <!---
 ## In-prep or submitted
