@@ -39,7 +39,7 @@ Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2
 
 **Sun, S.** and J. Liu (2017). Sensitivity of the Antarctic Circumpolar Current transport to surface buoyancy conditions in the North Atlantic. *Ocean Modell.*, 118, 118–129. [[pdf]({{ files }}/Sun-Liu-2017-ACC.pdf)]
 
-Yang, H., L. Wu, **S. Sun**, and Z. Chen (2017): Role of the South China Sea in Regulating the North Pacific Double-Gyre System. *J. Phys. Oceanogr.*, 47(7), 1617–1635.[[pdf]({{ files }}/Yang_etal_2017.pdf)
+Yang, H., L. Wu, **S. Sun**, and Z. Chen (2017): Role of the South China Sea in Regulating the North Pacific Double-Gyre System. *J. Phys. Oceanogr.*, 47(7), 1617–1635.[[pdf]({{ files }}/Yang_etal_2017.pdf)]
 
 Yang, H., L. Wu, **S. Sun**, and Z. Chen (2017): Selective Response of the South China Sea Circulation to Summer Monsoon. *J. Phys. Oceanogr.* 47(7), 1555–1568. [[pdf]({{ files }}/Yang-2017-SCSIntraSeasonal.pdf)]
 
@@ -51,7 +51,7 @@ Yang, H., L. Wu, **S. Sun**, and Z. Chen (2017): Selective Response of the South
 
 Yang, H., L. Wu, **S. Sun**, and C. Zhaohui (2015): Low-frequency variability of monsoon-driven circulation with application to the South China Sea. *J. Phys. Oceanogr.*, 45(6), 1632–1650. [[pdf]({{ files }}/Yang_etal_2014.pdf)]
 
-Chen, Z., L. Wu, B. Qiu, **S. Sun**, and F. Jia (2014): Seasonal variation of the South Equatorial Current bifurcation off Madagascar. *J. Phys. Oceanogr.*, 44(2), 618–631. [[pdf]({{ files }}/Chen_etal_2013.pdf)
+Chen, Z., L. Wu, B. Qiu, **S. Sun**, and F. Jia (2014): Seasonal variation of the South Equatorial Current bifurcation off Madagascar. *J. Phys. Oceanogr.*, 44(2), 618–631. [[pdf]({{ files }}/Chen_etal_2013.pdf)]
 
 **Sun, S.**, L. Wu, and B. Qiu (2013): Response of the inertial recirculation to intensified stratification in a two-layer quasigeostrophic ocean circulation model. *J. Phys. Oceanogr.*, 43(7), 1254–1269 [[pdf]({{ files }}/Sun_etal_2013.pdf)]
 
