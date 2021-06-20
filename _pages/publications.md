@@ -13,13 +13,15 @@ author_profile: true
 
 {% assign files = "https://stsun.github.io/files" %}
 
-<u>Sun, S.</u>, A. F. Thompson, S.-P. Xie, and S.-M. Long. **Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation.** *submitted.*
+**Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long. Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *submitted.*
 
 ## 2021
 
-Quan, Q., Z. Liu, <u>S. Sun</u>, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2021). **Influence of the Kuroshio Intrusion on Deep Flow Intraseasonal Variability in the Northern South China Sea.**  *J. Geophys. Res., accepted.*
+Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2021). Influence of the Kuroshio Intrusion on Deep Flow Intraseasonal Variability in the Northern South China Sea.  *J. Geophys. Res., accepted.*
 
-**Sun, S.** and I. Eisenman (2021). Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. *Nat. Commun.*, 12, 1060. [pdf]({{files}}/Sun-Eisenman-2021-NCOMMS.pdf) [Publisher's Version](https://doi.org/10.1038/s41467-021-21412-z) [a news piece](https://scripps.ucsd.edu/news/simulation-vs-reality-researchers-modify-climate-model-explain-expanding-antarctic-sea-ice)
+**Sun, S.** and I. Eisenman (2021). Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. *Nat. Commun.*, 12, 1060. [[pdf, ]({{files}}/Sun-Eisenman-2021-NCOMMS.pdf) [Publisher's Version, ](https://doi.org/10.1038/s41467-021-21412-z) [a news piece](https://scripps.ucsd.edu/news/simulation-vs-reality-researchers-modify-climate-model-explain-expanding-antarctic-sea-ice)]
+
+## 2020
 
 <p><u>Sun, S.</u> and A. F. Thompson (2020). <b> Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. </b> <i> Geophys. Res. Lett., </i> 47,  e2020GL090615. [<a href="{{files}}/Sun-Thompson-2020-GRL-ITF.pdf">pdf</a>] [<a href="https://doi.org/10.1029/2020GL090615">Publisher's Version </a>] [<a href="https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow">Eos Editors' Highlight</a>]</p>
 
