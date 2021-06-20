@@ -13,15 +13,17 @@ author_profile: true
 
 {% assign files = "https://stsun.github.io/files" %}
 
+### Under review
+
 **Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long. Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *submitted.*
 
-## 2021
+### 2021
 
 Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2021). Influence of the Kuroshio Intrusion on Deep Flow Intraseasonal Variability in the Northern South China Sea.  *J. Geophys. Res., accepted.*
 
 **Sun, S.** and I. Eisenman (2021). Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. *Nat. Commun.*, 12, 1060. [[pdf, ]({{files}}/Sun-Eisenman-2021-NCOMMS.pdf) [Publisher's Version, ](https://doi.org/10.1038/s41467-021-21412-z) [a news piece](https://scripps.ucsd.edu/news/simulation-vs-reality-researchers-modify-climate-model-explain-expanding-antarctic-sea-ice)]
 
-## 2020
+### 2020
 
 <p><u>Sun, S.</u> and A. F. Thompson (2020). <b> Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. </b> <i> Geophys. Res. Lett., </i> 47,  e2020GL090615. [<a href="{{files}}/Sun-Thompson-2020-GRL-ITF.pdf">pdf</a>] [<a href="https://doi.org/10.1029/2020GL090615">Publisher's Version </a>] [<a href="https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow">Eos Editors' Highlight</a>]</p>
 
@@ -29,8 +31,11 @@ Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2
 
 <p><u>Sun, S.</u>, I. Eisenman, L. Zanna, and A. Stewart (2020). <b>Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic.</b> <i> J. Clim., </i>  33(8), 3125-3149. [<a href="{{files}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf">pdf</a>] [<a href="https://doi.org/10.1175/JCLI-D-19-0546.1">Publisher's Version</a>]</p>
 
+## 2018
 
 <p><u>Sun, S.</u>, I. Eisenman, and A. Stewart (2018). <b>Does Southern Ocean surface forcing shape the global ocean overturning circulation?</b> <i>Geophys. Res. Lett.,</i> 45, 2413-2423. [<a href="{{ files }}/Sun_et_al-2018-Geophysical_Research_Letters.pdf">pdf</a>, <a href="{{ files }}/Sun_et_al-2018-Geophysical_Research_Letters.sup.pdf">supplement</a>]</p>
+
+## 2017
 
 <p><u>Sun, S.</u> and J. Liu (2017). <b>Sensitivity of the Antarctic Circumpolar Current transport to surface buoyancy conditions in the North Atlantic.</b> <i>Ocean Modell.</i>, 118, 118–129. [<a href="{{ files }}/Sun-Liu-2017-ACC.pdf">pdf</a>]</p>
 
@@ -38,9 +43,13 @@ Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2
 
 <p>Yang, H., L. Wu, <u>S. Sun</u>, and Z. Chen (2017): <b>Selective Response of the South China Sea Circulation to Summer Monsoon.</b> <i>J. Phys. Oceanogr.</i>, 47(7), 1555–1568. [<a href="{{ files }}/Yang-2017-SCSIntraSeasonal.pdf">pdf</a>]</p>
 
+## 2016
+
 <p><u>Sun, S.</u>, I. Eisenman, and A. Stewart (2016). 
 <b>The influence of Southern Ocean surface buoyancy forcing on glacial-interglacial changes in the global deep ocean stratification.</b> 
 <i>Geophys. Res. Lett.,</i> 43, 8124-8132. [<a href="{{ files }}/Sun_et_al-2016-Geophysical_Research_Letters.pdf">pdf</a>, <a href="{{ files }}/Sun_et_al-2016-Geophysical_Research_Letters.sup-1.pdf">supplement</a>]</p>
+
+## 2013-2015
 
 <p>Yang, H., L. Wu, <u>S. Sun</u>, and C. Zhaohui (2015): <b>Low-frequency variability of monsoon-driven circulation with application to the south china sea.</b> <i>J. Phys. Oceanogr.</i>, 45(6), 1632–1650. [<a href="{{ files }}/Yang_etal_2014.pdf">pdf</a>]</p>
 
