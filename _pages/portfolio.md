@@ -10,16 +10,17 @@ author_profile: true
 {% assign pdir = "https://stsun.github.io/files" %}
 
 ## Antarctic sea ice changes
-<img src="{{pdir}}/Sun-Eisenman-2021.png" alt="drawing" width="700"/>
+{# <img src="{{pdir}}/Sun-Eisenman-2021.png" alt="drawing" width="700"/> #}
 
 The Antarctic sea ice area expanded significantly during 1979-2015. This is at odds with state-of-the-art climate models, which typically simulate a receding Antarctic sea ice cover in response to increasing greenhouse forcing. Here we investigate the hypothesis that this discrepancy between models and observations occurs due to simulation biases in the sea ice drift velocity. As a control we use the Community Earth System Model (CESM) Large Ensemble ("LENS"), which has 40 realizations of past and future climate change that all undergo Antarctic sea ice retreat during recent decades. We modify CESM to replace the simulated sea ice velocity field with a satellite-derived estimate of the observed sea ice motion, and we simulate 3 realizations of recent climate change ("ObsVi"). We find that the Antarctic sea ice expands in all 3 of these realizations, with the simulated spatial structure of the expansion bearing resemblance to observations. The results suggest that the reason CESM has failed to capture the observed Antarctic sea ice expansion is due to simulation biases in the sea ice drift velocity, implying that an improved representation of sea ice motion is crucial for more accurate sea ice projections.
 
 Ref: [Sun and Eisenman (2021)]({{pdir}}/Sun-Eisenman-2021-NCOMMS.pdf)
 
-## The ocean's transient conveyor belt: Centennial changes in the ITF connected to the AMOC [<a href="https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow">a research highlight</a>]
-<img src="{{pdir}}/Sun-Thompson-2020.png" alt="drawing" width="700"/>
+## The ocean's transient conveyor belt
 
-[Upper layer response to reduced NADW formation]
+{# <img src="{{pdir}}/Sun-Thompson-2020.png" alt="drawing" width="700"/> 
+
+[Upper layer response to reduced NADW formation] #}
 
 The great ocean conveyor belt is a classical logo for the global ocean overturning circulation. In this paradigm, the North Atlantic Deep Water (NADW) enters the Pacific, comes back to the surface through diapycnal mixing, and returns to the Atlantic Ocean after entering the Indian Ocean as part of the Indonesian Throughflow (ITF). However, later observational studies suggested that deep waters mainly return to the surface via along-isopycnal pathways in the Southern Ocean, with ITF playing only a small role in closing the global overturning circulation.
 
@@ -31,9 +32,9 @@ Ref: [Sun and Thompson (2020; GRL)]({{pdir}}/Sun-Thompson-2020-GRL-ITF.pdf) and 
 
 ## Transient overturning compensation between Atlantic and Indo-Pacific basins
 
-<img src="{{pdir}}/ROC_Change_LENS_CESM.png" alt="drawing" width="900"/>
+{# <img src="{{pdir}}/ROC_Change_LENS_CESM.png" alt="drawing" width="900"/>
 
-[MOC streamfunction averaged between 2006-2015 (top) and its changes from 2006-2015 to 2090-2100 (bottom), simulated by CESM.]
+[MOC streamfunction averaged between 2006-2015 (top) and its changes from 2006-2015 to 2090-2100 (bottom), simulated by CESM.] #}
 
 Climate models consistently project (i) a decline in the formation of North Atlantic Deep Water (NADW) and (ii) a strengthening of the Southern Hemisphere westerly winds in response to anthropogenic greenhouse gas forcing.  These two processes suggest potentially conflicting tendencies of the Atlantic Meridional Overturning Circulation (AMOC): a weakening AMOC due to changes in the North Atlantic but a strengthening AMOC due to changes in the Southern Ocean (see figure above).
 
@@ -43,7 +44,7 @@ Ref: [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf)[<a hr
 
 
 ## What sets the AMOC depth?
-<img src="{{pdir}}/AMOC-Depth.png" alt="drawing" width="500"/>
+{# <img src="{{pdir}}/AMOC-Depth.png" alt="drawing" width="500"/> #}
 
 Paleoclimate proxy data suggest that the AMOC was shallower at the Last Glacial Maximum than its preindustrial depth. Previous studies emphasized the Southern Ocean surface buoyancy forcing in setting the AMOC depth. Using a combination of model simulations and conceptual theories, we show that dipyacnal processes, ignored in previous studies, could diminish the influece of Southern Ocean surface buoyancy forcing on the AMOC depth. A new schematic based on surface buoyancy distributions in both the Southern Ocean and the North Atlantic is proposed.
 
