@@ -30,13 +30,13 @@ Ref: [Sun and Thompson (2020; GRL)]({{pdir}}/Sun-Thompson-2020-GRL-ITF.pdf) and 
 
 ***
 ## Ocean overturning circulation in steady state
-### Processes that set the depth of AMOC
+### Processes that set the depth of AMOC: Southern Ocean vs North Atlantic
 
 > Paleoclimate proxy data suggest that the AMOC was shallower at the Last Glacial Maximum than its preindustrial depth. Previous studies emphasized the Southern Ocean surface buoyancy forcing in setting the AMOC depth. Using a combination of model simulations and conceptual theories, we show that dipyacnal processes, ignored in previous studies, could diminish the influece of Southern Ocean surface buoyancy forcing on the AMOC depth. A new schematic based on surface buoyancy distributions in both the Southern Ocean and the North Atlantic is proposed.
 
 Ref: [Sun et al. (2018)]({{pdir}}/Sun_et_al-2018-Geophysical_Research_Letters.pdf), [Sun and Liu (2017)]({{pdir}}/Sun-Liu-2017-ACC.pdf), [Sun et al. (2020; JClim)]({{pdir}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf)
 
-### Glacial-interglacial changes in deep Ocean Stratification
+### Glacial-interglacial changes in deep ocean stratification set by Southern Ocean surface buoyancy forcing
 
 > Previous studies have suggested that the global ocean density stratification below ∼3000 m is approximately set by its direct connection to the Southern Ocean surface density, which in turn is constrained by the atmosphere. Here the role of Southern Ocean surface forcing in glacial-interglacial stratification changes is investigated using a comprehensive climate model and an idealized conceptual model. Southern Ocean surface forcing is found to control the global deep ocean stratification up to ∼2000 m, which is much shallower than previously thought and contrary to the expectation that the North Atlantic surface forcing should strongly influence the ocean at intermediate depths. We show that this is due to the approximately fixed surface freshwater fluxes, rather than a fixed surface density distribution in the Southern Ocean as was previously assumed. These results suggest that Southern Ocean surface freshwater forcing controls glacial-interglacial stratification changes in much of the deep ocean.
 
@@ -44,7 +44,8 @@ Ref: [Sun et al. (2016)]({{pdir}}/Sun_et_al-2016-Geophysical_Research_Letters.pd
 
 
 *** 
-## Antarctic sea ice changes
+## Sea ice
+### Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity
 
 > The Antarctic sea ice area expanded significantly during 1979-2015. This is at odds with state-of-the-art climate models, which typically simulate a receding Antarctic sea ice cover in response to increasing greenhouse forcing. Here we investigate the hypothesis that this discrepancy between models and observations occurs due to simulation biases in the sea ice drift velocity. As a control we use the Community Earth System Model (CESM) Large Ensemble ("LENS"), which has 40 realizations of past and future climate change that all undergo Antarctic sea ice retreat during recent decades. We modify CESM to replace the simulated sea ice velocity field with a satellite-derived estimate of the observed sea ice motion, and we simulate 3 realizations of recent climate change ("ObsVi"). We find that the Antarctic sea ice expands in all 3 of these realizations, with the simulated spatial structure of the expansion bearing resemblance to observations. The results suggest that the reason CESM has failed to capture the observed Antarctic sea ice expansion is due to simulation biases in the sea ice drift velocity, implying that an improved representation of sea ice motion is crucial for more accurate sea ice projections.
 
