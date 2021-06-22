@@ -9,13 +9,18 @@ author_profile: true
 
 {% assign pdir = "https://stsun.github.io/files" %}
 
-### Antarctic sea ice changes
+## Antarctic sea ice changes
+{# <img src="{{pdir}}/Sun-Eisenman-2021.png" alt="drawing" width="700"/> #}
 
 The Antarctic sea ice area expanded significantly during 1979-2015. This is at odds with state-of-the-art climate models, which typically simulate a receding Antarctic sea ice cover in response to increasing greenhouse forcing. Here we investigate the hypothesis that this discrepancy between models and observations occurs due to simulation biases in the sea ice drift velocity. As a control we use the Community Earth System Model (CESM) Large Ensemble ("LENS"), which has 40 realizations of past and future climate change that all undergo Antarctic sea ice retreat during recent decades. We modify CESM to replace the simulated sea ice velocity field with a satellite-derived estimate of the observed sea ice motion, and we simulate 3 realizations of recent climate change ("ObsVi"). We find that the Antarctic sea ice expands in all 3 of these realizations, with the simulated spatial structure of the expansion bearing resemblance to observations. The results suggest that the reason CESM has failed to capture the observed Antarctic sea ice expansion is due to simulation biases in the sea ice drift velocity, implying that an improved representation of sea ice motion is crucial for more accurate sea ice projections.
 
 Ref: [Sun and Eisenman (2021)]({{pdir}}/Sun-Eisenman-2021-NCOMMS.pdf)
 
-### The ocean's transient conveyor belt: Centennial changes in the ITF connected to AMOC
+## The ocean's transient conveyor belt
+
+{# <img src="{{pdir}}/Sun-Thompson-2020.png" alt="drawing" width="700"/> 
+
+[Upper layer response to reduced NADW formation] #}
 
 The great ocean conveyor belt is a classical logo for the global ocean overturning circulation. In this paradigm, the North Atlantic Deep Water (NADW) enters the Pacific, comes back to the surface through diapycnal mixing, and returns to the Atlantic Ocean after entering the Indian Ocean as part of the Indonesian Throughflow (ITF). However, later observational studies suggested that deep waters mainly return to the surface via along-isopycnal pathways in the Southern Ocean, with ITF playing only a small role in closing the global overturning circulation.
 
@@ -25,21 +30,29 @@ Through this transient version of the conveyor belt circulation, changes in the 
 
 Ref: [Sun and Thompson (2020; GRL)]({{pdir}}/Sun-Thompson-2020-GRL-ITF.pdf) and [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf) 
 
-### Transient overturning compensation between Atlantic and Indo-Pacific basins
+## Transient overturning compensation between Atlantic and Indo-Pacific basins
+
+{# <img src="{{pdir}}/ROC_Change_LENS_CESM.png" alt="drawing" width="900"/>
+
+[MOC streamfunction averaged between 2006-2015 (top) and its changes from 2006-2015 to 2090-2100 (bottom), simulated by CESM.] #}
 
 Climate models consistently project (i) a decline in the formation of North Atlantic Deep Water (NADW) and (ii) a strengthening of the Southern Hemisphere westerly winds in response to anthropogenic greenhouse gas forcing.  These two processes suggest potentially conflicting tendencies of the Atlantic Meridional Overturning Circulation (AMOC): a weakening AMOC due to changes in the North Atlantic but a strengthening AMOC due to changes in the Southern Ocean (see figure above).
 
 We propose that the adjustment of the Indo-Pacific overturning circulation is a critical component in mediating AMOC changes. Using a hierarchy of ocean and climate models, we show that the Indo-Pacific overturning circulation provides the first response to AMOC changes through wave processes, whereas the Southern Ocean overturning circulation responds on longer (centennial to millenial) timescales that are determined by eddy diffusion processes. Changes in the Indo-Pacific overturning circulation compensate AMOC changes, which allows the Southern Ocean overturning circulation to evolve independently of the AMOC, at least over timescales up to many decades. In a warming climate, the Indo-Pacific develops an overturning circulation anomaly associated with the weakening AMOC that is characterized by a northward transport close to the surface and a southward transport in the deep ocean, which could effectively redistribute heat between the basins. Our results highlight the importance of inter-basin exchange in the response of the global ocean overturning circulation to a changing climate.
 
-Ref: [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf)
+Ref: [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf)[<a href="https://ocean2climate.org/2020/06/25/compensating-change-in-the-indo-pacific-moc-in-response-to-the-atlantic-moc-slowdown/"> a blog piece </a>]
 
-### Processes that set the depth of AMOC
+
+## What sets the AMOC depth?
+{# <img src="{{pdir}}/AMOC-Depth.png" alt="drawing" width="500"/> #}
 
 Paleoclimate proxy data suggest that the AMOC was shallower at the Last Glacial Maximum than its preindustrial depth. Previous studies emphasized the Southern Ocean surface buoyancy forcing in setting the AMOC depth. Using a combination of model simulations and conceptual theories, we show that dipyacnal processes, ignored in previous studies, could diminish the influece of Southern Ocean surface buoyancy forcing on the AMOC depth. A new schematic based on surface buoyancy distributions in both the Southern Ocean and the North Atlantic is proposed.
 
 Ref: [Sun et al. (2018)]({{pdir}}/Sun_et_al-2018-Geophysical_Research_Letters.pdf), [Sun and Liu (2017)]({{pdir}}/Sun-Liu-2017-ACC.pdf), [Sun et al. (2020; JClim)]({{pdir}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf)
 
-### Glacial-interglacial changes in deep Ocean Stratification
+## Deep Ocean Stratification
+
+<img src="{{pdir}}/Stratification.png" alt="drawing" width="500"/>
 
 Previous studies have suggested that the global ocean density stratification below ∼3000 m is approximately set by its direct connection to the Southern Ocean surface density, which in turn is constrained by the atmosphere. Here the role of Southern Ocean surface forcing in glacial-interglacial stratification changes is investigated using a comprehensive climate model and an idealized conceptual model. Southern Ocean surface forcing is found to control the global deep ocean stratification up to ∼2000 m, which is much shallower than previously thought and contrary to the expectation that the North Atlantic surface forcing should strongly influence the ocean at intermediate depths. We show that this is due to the approximately fixed surface freshwater fluxes, rather than a fixed surface density distribution in the Southern Ocean as was previously assumed. These results suggest that Southern Ocean surface freshwater forcing controls glacial-interglacial stratification changes in much of the deep ocean.
 
