@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Research Summary"
 permalink: /portfolio/
 author_profile: true
 ---
@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 {% assign pdir = "https://stsun.github.io/files" %}
+
+Here are some quick summaries of my research.
 
 ## Ocean overturning circulation in transient responses
 
