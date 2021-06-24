@@ -9,7 +9,7 @@ author_profile: true
 
 {% assign pdir = "https://stsun.github.io/files" %}
 
-Here are some quick summaries of my research.
+Below are some quick summaries of my research.
 
 ## Ocean overturning circulation in transient responses
 
