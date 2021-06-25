@@ -15,6 +15,8 @@ author_profile: true
 
 ### Under review
 
+Wilson, E. A., A. F. Thompson, A. Stewart, **S. Sun**. Bottom-up control of subpolar gyres and the overturning circulation in the Southern Ocean. *submitted.*
+
 **Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long. Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *submitted.*
 
 ### 2021
