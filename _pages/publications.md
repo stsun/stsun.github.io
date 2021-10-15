@@ -13,7 +13,7 @@ author_profile: true
 
 {% assign files = "https://stsun.github.io/files" %}
 
-### Under review
+### In progress
 
 Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ observations reveal deep imprints of oceanic submesoscale fronts on mid-latitude atmosphere. *submitted.*
 
