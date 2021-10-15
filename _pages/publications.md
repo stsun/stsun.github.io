@@ -13,7 +13,7 @@ author_profile: true
 
 {% assign files = "https://stsun.github.io/files" %}
 
-### In Progress
+## In Progress
 
 Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ observations reveal deep imprints of oceanic submesoscale fronts on mid-latitude atmosphere. *submitted.*
 
@@ -21,6 +21,8 @@ Wilson, E. A., A. F. Thompson, A. Stewart, **S. Sun**. Bottom-up control of subp
 
 **Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long. Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *submitted.*
 
+***
+## Peer-reviewed
 ### 2021
 
 Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2021). Influence of the Kuroshio intrusion on deep flow intraseasonal variability in the northern South China Sea.  *J. Geophys. Res.*, e2021JC017429. [[Publisher's Version](https://doi.org/10.1029/2021JC017429)]
