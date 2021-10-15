@@ -23,6 +23,9 @@ Wilson, E. A., A. F. Thompson, A. Stewart, **S. Sun**. Bottom-up control of subp
 
 ***
 ## Peer-reviewed
+
+[2021](#2021) [2020](#2020) [2018](#2018) [2017](#2017) [2016](#2016) [2013-2015](#2013-2015)
+
 ### 2021
 
 Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2021). Influence of the Kuroshio intrusion on deep flow intraseasonal variability in the northern South China Sea.  *J. Geophys. Res.*, e2021JC017429. [[Publisher's Version](https://doi.org/10.1029/2021JC017429)]
