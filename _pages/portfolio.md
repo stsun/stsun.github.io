@@ -11,7 +11,7 @@ author_profile: true
 
 Below are some quick summaries of my research.
 
-[Transient inter-basin overturning; ](#TransientMOC) &nbsp;  [AMOC depth and deep ocean stratification; ](#AMOC-Depth) &nbsp; [Antarctic sea ice](#Sea-Ice)
+[#1. Transient inter-basin overturning; ](#TransientMOC) &nbsp;  [#2. AMOC depth and deep ocean stratification; ](#AMOC-Depth) &nbsp; [#3. Antarctic sea ice](#Sea-Ice)
 
 ## Ocean overturning circulation in transient responses <a name="TransientMOC" />
 
