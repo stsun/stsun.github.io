@@ -64,7 +64,7 @@ Chen, Z., L. Wu, B. Qiu, **S. Sun**, and F. Jia (2014): Seasonal variation of th
 
 ***
 
-Gray Literature
+## Gray Literature
 
 **S. Sun** (2019). Surface constraints on the global ocean overturning circulation: Southern Ocean vs North Atlantic. PhD thesis, Scripps Institution of Oceanography, UC San Diego, 216 pages.
 
