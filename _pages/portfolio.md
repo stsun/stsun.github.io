@@ -11,9 +11,9 @@ author_profile: true
 
 Below are some quick summaries of my research.
 
-[Transient inter-basin overturning and ITF](#TransientMOC) &nbsp; &nbsp;  [AMOC depth and deep ocean stratification](#AMOC-Depth) &nbsp; &nbsp; [Antarctic sea ice](#Sea-Ice)
+[Transient inter-basin overturning](#TransientMOC) &nbsp; &nbsp;  [AMOC depth and deep ocean stratification](#AMOC-Depth) &nbsp; &nbsp; [Antarctic sea ice](#Sea-Ice)
 
-## Ocean overturning circulation in transient responses <a name="TransientMOC" />
+## Transient inter-basin overturning circulation and its role in the climate <a name="TransientMOC" />
 
 ### Transient overturning compensation between Atlantic and Indo-Pacific basins
 
@@ -30,6 +30,12 @@ Ref: [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf)
 > Here we argue that, although the conveyor belt is not an accurate representation of the mean-state global ocean overturning circulation, it is a key component of the overturning's transient response to surface forcing perturbations. In response to an AMOC slowdown, the Indian Ocean develops a northward surface transport anomaly that converges mass and modifies sea surface height in the Indian Ocean, which weakens the ITF. Through this transient version of the conveyor belt circulation, changes in the high-latitude North Atlantic (e.g., Arctic sea ice melt) can affect the climate in the low-latitude Indo-Pacific Ocean. An intriguing corollary is the potential to use the ITF to monitor or interpret long-term trends in the AMOC.
 
 Ref: [Sun and Thompson (2020; GRL)]({{pdir}}/Sun-Thompson-2020-GRL-ITF.pdf) and [Sun et al. (2020; JPO)]({{pdir}}/Sun-Thompson-Eisenman-2020-JPO.pdf) 
+
+### Indo-Pacific warming induced by a weakening of the AMOC: An inter-basin seesaw
+
+>The reorganization of the Atlantic Meridional Overturning Circulation (AMOC) is often associated with changes in Earth's climate. These AMOC changes are communicated to the Indo-Pacific basins via wave processes and induce an overturning circulation anomaly that opposes the Atlantic changes on decadal to centennial time scales.  We examine the role of this transient, inter-basin overturning response, driven by an AMOC weakening, both in an ocean-only model with idealized geometry and in a coupled CO$_2$ quadrupling experiment, in which the ocean warms on two distinct timescales:  a fast decadal surface warming and a slow centennial subsurface warming. We show that the transient inter-basin overturning produces a zonal heat redistribution between the Atlantic and Indo-Pacific basins. Following a weakened AMOC, an anomalous northward heat transport emerges in the Indo-Pacific, which substantially compensates for the Atlantic southward heat transport anomaly. This zonal heat redistribution manifests as a thermal inter-basin seesaw between the high-latitude North Atlantic and the subsurface Indo-Pacific and helps to explain why Antarctic temperature records generally show more gradual changes than the Northern Hemisphere during the last glacial period. In the coupled CO$_2$ quadrupling experiment, we find that the inter-basin heat transport due to a weakened AMOC contributes substantially to the slow centennial subsurface warming in the Indo-Pacific, accounting for more than half of the heat content increase and sea level rise. Thus, our results suggest that the transient inter-basin overturning circulation is a key component of the global ocean heat budget in a changing climate.
+
+Ref: [Sun et al. (JClim, accepted)]({{pdir}}/Sun-Thompson-Xie-Long-2022-JClim.pdf)
 
 
 ***
