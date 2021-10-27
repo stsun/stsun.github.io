@@ -24,7 +24,7 @@ Wilson, E. A., A. F. Thompson, A. Stewart, **S. Sun**. Bottom-up control of subp
  
 [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
-**Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long. Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *J. Clim.*, *accepted*, doi:10.1175/JCLI-D-21-0346.1 [[pdf,]({{files}}/Sun-Thompson-Xie-Long-2020-JClim.pdf) [code](https://doi.org/10.6084/m9.figshare.16308111)]
+**Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long. Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *J. Clim.*, *accepted*, doi:10.1175/JCLI-D-21-0346.1 [[pdf,]({{files}}/Sun-Thompson-Xie-Long-2022-JClim.pdf) [code](https://doi.org/10.6084/m9.figshare.16308111)]
 
 ### 2021
 
