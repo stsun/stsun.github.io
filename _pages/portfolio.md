@@ -44,7 +44,7 @@ Ref: [Sun et al. (JClim, accepted)]({{pdir}}/Sun-Thompson-Xie-Long-2022-JClim.pd
 
 > Paleoclimate proxy data suggest that the AMOC was shallower at the Last Glacial Maximum than its preindustrial depth. Previous studies emphasized the Southern Ocean surface buoyancy forcing in setting the AMOC depth. Using a combination of model simulations and conceptual theories, we show that dipyacnal processes, ignored in previous studies, could diminish the influece of Southern Ocean surface buoyancy forcing on the AMOC depth. A new schematic based on surface buoyancy distributions in both the Southern Ocean and the North Atlantic is proposed.
 
-Ref: [Sun et al. (2018)]({{pdir}}/Sun_et_al-2018-Geophysical_Research_Letters.pdf), [Sun and Liu (2017)]({{pdir}}/Sun-Liu-2017-ACC.pdf), [Sun et al. (2020; JClim)]({{pdir}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf)
+Ref: [Sun et al. (2018)]({{pdir}}/Sun_et_al-2018-Geophysical_Research_Letters.pdf), [Sun and Liu (2017)]({{pdir}}/Sun-Liu-2017-ACC.pdf), [Sun et al. (JClim, 2020)]({{pdir}}/Sun-Eisenman-Zanna-Stewart-inpress-2020.pdf)
 
 ### Glacial-interglacial changes in deep ocean stratification set by Southern Ocean surface buoyancy forcing
 
