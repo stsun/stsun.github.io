@@ -58,7 +58,7 @@ Yang, H., L. Wu, **S. Sun**, and Z. Chen (2017): Selective Response of the South
 
 ### 2013-2015
 
-Yang, H., L. Wu, **S. Sun**, and C. Zhaohui (2015): Low-frequency variability of monsoon-driven circulation with application to the South China Sea. *J. Phys. Oceanogr.*, 45(6), 1632–1650. [[pdf]({{ files }}/Yang_etal_2014.pdf)]
+Yang, H., L. Wu, **S. Sun**, and Z. Chen (2015): Low-frequency variability of monsoon-driven circulation with application to the South China Sea. *J. Phys. Oceanogr.*, 45(6), 1632–1650. [[pdf]({{ files }}/Yang_etal_2014.pdf)]
 
 Chen, Z., L. Wu, B. Qiu, **S. Sun**, and F. Jia (2014): Seasonal variation of the South Equatorial Current bifurcation off Madagascar. *J. Phys. Oceanogr.*, 44(2), 618–631. [[pdf]({{ files }}/Chen_etal_2013.pdf)]
 
