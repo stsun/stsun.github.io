@@ -12,9 +12,12 @@ author_profile: true
 {% endif %}
 
 {% assign files = "https://stsun.github.io/files" %}
-<!--
+
 ## In Progress
 
+Bonan, D. B., A. F. Thompson, E. R. Newsom, S. Sun, and M. Rugenstein. Transient and equilibrium responses of the Atlantic overturning circulation to warming in coupled climate models: the role of temperature and salinity. submitted to *J. Clim.*
+
+<!--
 Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ observations reveal deep imprints of oceanic submesoscale fronts on mid-latitude atmosphere. *submitted.*
 -->
 
@@ -23,7 +26,7 @@ Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ
  
 [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
-Wilson, E. A., A. F. Thompson, A. Stewart, **S. Sun**. Bathymetric control of subpolar gyres and the overturning circulation in the Southern Ocean. *J. Phys. Oceanogr.*, *accepted.*
+Wilson, E. A., A. F. Thompson, A. Stewart, and **S. Sun**. Bathymetric control of subpolar gyres and the overturning circulation in the Southern Ocean. *J. Phys. Oceanogr.*, *accepted.*
 
 **Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long. Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *J. Clim.*, *accepted*. [[pdf,]({{files}}/Sun-Thompson-Xie-Long-2022-JClim.pdf) [publisher's version,](https://doi.org/10.1175/JCLI-D-21-0346.1) [code](https://doi.org/10.6084/m9.figshare.16308111)]
 
