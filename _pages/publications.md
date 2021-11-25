@@ -15,7 +15,7 @@ author_profile: true
 
 ## In Progress
 
-Bonan, D. B., A. F. Thompson, E. R. Newsom, S. Sun, and M. Rugenstein. Transient and equilibrium responses of the Atlantic overturning circulation to warming in coupled climate models: the role of temperature and salinity. submitted to *J. Clim.*
+Bonan, D. B., A. F. Thompson, E. R. Newsom, **S. Sun**, and M. Rugenstein. Transient and equilibrium responses of the Atlantic overturning circulation to warming in coupled climate models: the role of temperature and salinity. *submitted to J. Clim.*
 
 <!--
 Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ observations reveal deep imprints of oceanic submesoscale fronts on mid-latitude atmosphere. *submitted.*
