@@ -38,7 +38,7 @@ Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2
 
 ### 2020
 
-**Sun, S.** and A. F. Thompson (2020). Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: the ocean's transient conveyor belt. *Geophys. Res. Lett.*, 47,  e2020GL090615. [[pdf, ]({{files}}/Sun-Thompson-2020-GRL-ITF.pdf) [publisher's version, ](https://doi.org/10.1029/2020GL090615) [Eos Editors' Highlight,](https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow) [code](https://doi.org/10.6084/m9.figshare.12903086)]
+**Sun, S.** and A. F. Thompson (2020). Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: The ocean's transient conveyor belt. *Geophys. Res. Lett.*, 47,  e2020GL090615. [[pdf, ]({{files}}/Sun-Thompson-2020-GRL-ITF.pdf) [publisher's version, ](https://doi.org/10.1029/2020GL090615) [Eos Editors' Highlight,](https://eos.org/editor-highlights/what-causes-centennial-changes-in-the-indonesian-throughflow) [code](https://doi.org/10.6084/m9.figshare.12903086)]
 
 **Sun, S.**, A. F. Thompson, and I. Eisenman (2020). Transient overturning compensation between Atlantic and Indo-Pacific basins. *J. Phys. Oceanogr.*, 50(8), 2151-2172.  [[pdf,]({{files}}/Sun-Thompson-Eisenman-2020-JPO.pdf)  [publisher's version,](https://doi.org/10.1175/JPO-D-20-0060.1)  [a blog piece](https://ocean2climate.org/2020/06/25/compensating-change-in-the-indo-pacific-moc-in-response-to-the-atlantic-moc-slowdown/)] 
 
