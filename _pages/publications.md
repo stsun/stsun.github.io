@@ -24,11 +24,13 @@ Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ
 ***
 ## Peer-reviewed
  
-[2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
+[2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
-Wilson, E. A., A. F. Thompson, A. Stewart, and **S. Sun**. Bathymetric control of subpolar gyres and the overturning circulation in the Southern Ocean. *J. Phys. Oceanogr.*, *accepted.* [[publisher's version](https://doi.org/10.1175/JPO-D-21-0136.1)]
+### 2022
 
-**Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long. Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *J. Clim.*, *accepted*. [[pdf,]({{files}}/Sun-Thompson-Xie-Long-2022-JClim.pdf) [publisher's version,](https://doi.org/10.1175/JCLI-D-21-0346.1) [code](https://doi.org/10.6084/m9.figshare.16308111)]
+Wilson, E. A., A. F. Thompson, A. Stewart, and **S. Sun** (2022). Bathymetric control of subpolar gyres and the overturning circulation in the Southern Ocean. *J. Phys. Oceanogr.*, *in press.* [[publisher's version](https://doi.org/10.1175/JPO-D-21-0136.1)]
+
+**Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long (2022). Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *J. Clim.*, 35 (2), 815-832. [[pdf,]({{files}}/Sun-Thompson-Xie-Long-2022-JClim.pdf) [publisher's version,](https://doi.org/10.1175/JCLI-D-21-0346.1) [code](https://doi.org/10.6084/m9.figshare.16308111)]
 
 ### 2021
 
