@@ -28,8 +28,6 @@ Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ
 
 ### 2022
 
-Blanchard-Wrigglesworth, E., I. Eisenman, S. Zhang, **S. Sun**, and A. Donohoe (2022), New perspectives on the enigma of expanding Antarctic sea ice, *Eos*, 103. [[link](https://doi.org/10.1029/2022EO220076)]
-
 Wilson, E. A., A. F. Thompson, A. Stewart, and **S. Sun** (2022). Bathymetric control of subpolar gyres and the overturning circulation in the Southern Ocean. *J. Phys. Oceanogr.*, 52(2), 205-223. [[publisher's version](https://doi.org/10.1175/JPO-D-21-0136.1)]
 
 **Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long (2022). Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *J. Clim.*, 35(2), 815-832. [[pdf,]({{files}}/Sun-Thompson-Xie-Long-2022-JClim.pdf) [publisher's version,](https://doi.org/10.1175/JCLI-D-21-0346.1) [code](https://doi.org/10.6084/m9.figshare.16308111)]
@@ -76,6 +74,8 @@ Chen, Z., L. Wu, B. Qiu, **S. Sun**, and F. Jia (2014): Seasonal variation of th
 ***
 
 ## Gray Literature
+
+Blanchard-Wrigglesworth, E., I. Eisenman, S. Zhang, **S. Sun**, and A. Donohoe (2022), New perspectives on the enigma of expanding Antarctic sea ice, *Eos*, 103. [[link](https://doi.org/10.1029/2022EO220076)]
 
 **S. Sun** (2019). Surface constraints on the global ocean overturning circulation: Southern Ocean vs North Atlantic. PhD thesis, Scripps Institution of Oceanography, UC San Diego, 216 pages.
 
