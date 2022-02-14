@@ -38,7 +38,7 @@ Wilson, E. A., A. F. Thompson, A. Stewart, and **S. Sun** (2022). Bathymetric co
 
 Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2021). Influence of the Kuroshio intrusion on deep flow intraseasonal variability in the northern South China Sea.  *J. Geophys. Res.*, e2021JC017429. [[Publisher's Version](https://doi.org/10.1029/2021JC017429)]
 
-**Sun, S.** and I. Eisenman (2021). Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. *Nat. Commun.*, 12, 1060. [[pdf,]({{files}}/Sun-Eisenman-2021-NCOMMS.pdf)  [publisher's version,](https://doi.org/10.1038/s41467-021-21412-z)  [a news piece,](https://scripps.ucsd.edu/news/simulation-vs-reality-researchers-modify-climate-model-explain-expanding-antarctic-sea-ice) [data](https://doi.org/10.6084/m9.figshare.12857672.v3)]
+**Sun, S.** and I. Eisenman (2021). Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. *Nat. Commun.*, 12, 1060. [[pdf,]({{files}}/Sun-Eisenman-2021-NCOMMS.pdf)  [publisher's version,](https://doi.org/10.1038/s41467-021-21412-z)  [a news piece,](https://scripps.ucsd.edu/news/simulation-vs-reality-researchers-modify-climate-model-explain-expanding-antarctic-sea-ice) [data,](https://doi.org/10.6084/m9.figshare.12857672.v3) [a Eos piece](https://doi.org/10.1029/2022EO220076)]
 
 ### 2020
 
