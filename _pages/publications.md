@@ -27,7 +27,7 @@ Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ
 
 ### 2022
 
-Bonan, D. B., A. F. Thompson, E. R. Newsom, **S. Sun**, and M. Rugenstein. Transient and equilibrium responses of the Atlantic overturning circulation to warming in coupled climate models: the role of temperature and salinity. *J. Clim.*, *in press*.
+Bonan, D. B., A. F. Thompson, E. R. Newsom, **S. Sun**, and M. Rugenstein (2022). Transient and equilibrium responses of the Atlantic overturning circulation to warming in coupled climate models: the role of temperature and salinity. *J. Clim.*, *in press*.
 
 Wilson, E. A., A. F. Thompson, A. Stewart, and **S. Sun** (2022). Bathymetric control of subpolar gyres and the overturning circulation in the Southern Ocean. *J. Phys. Oceanogr.*, 52(2), 205-223. [[publisher's version](https://doi.org/10.1175/JPO-D-21-0136.1)]
 
