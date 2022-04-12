@@ -15,7 +15,6 @@ author_profile: true
 
 ## In Progress
 
-Bonan, D. B., A. F. Thompson, E. R. Newsom, **S. Sun**, and M. Rugenstein. Transient and equilibrium responses of the Atlantic overturning circulation to warming in coupled climate models: the role of temperature and salinity. *submitted to J. Clim.*
 
 <!--
 Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ observations reveal deep imprints of oceanic submesoscale fronts on mid-latitude atmosphere. *submitted.*
@@ -27,6 +26,8 @@ Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ
 [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
 ### 2022
+
+Bonan, D. B., A. F. Thompson, E. R. Newsom, **S. Sun**, and M. Rugenstein. Transient and equilibrium responses of the Atlantic overturning circulation to warming in coupled climate models: the role of temperature and salinity. *J. Clim.*, *in press*.
 
 Wilson, E. A., A. F. Thompson, A. Stewart, and **S. Sun** (2022). Bathymetric control of subpolar gyres and the overturning circulation in the Southern Ocean. *J. Phys. Oceanogr.*, 52(2), 205-223. [[publisher's version](https://doi.org/10.1175/JPO-D-21-0136.1)]
 
