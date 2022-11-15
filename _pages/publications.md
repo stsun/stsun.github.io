@@ -15,6 +15,9 @@ author_profile: true
 
 ## In Progress
 
+Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, L. Wu. On the decadal and multi-decadal variability of the Agulhas Current. *submitted.*
+
+Zhang, R., **S. Sun**, Z. Chen, H. Yang, L. Wu. Rapid weakening of the Agulhas Current in a warming climate. *submitted.*
 
 <!--
 Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ observations reveal deep imprints of oceanic submesoscale fronts on mid-latitude atmosphere. *submitted.*
