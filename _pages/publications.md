@@ -8,16 +8,16 @@ author_profile: true
 {% include base_path %}
 
 {% if "a" == "a" %}
-  You can also find my papers on my [Google Scholar](https://scholar.google.com/citations?user=IJMEC2EAAAAJ&hl=en) profile. Please contact me if you are interested in a paper under review. Names with a star represents students advised by me. 
+  You can also find my papers on my [Google Scholar](https://scholar.google.com/citations?user=IJMEC2EAAAAJ&hl=en) profile. Please contact me if you are interested in a paper under review. Names with a "#" represent students advised by me. 
 {% endif %}
 
 {% assign files = "https://stsun.github.io/files" %}
 
 ## In Progress
 
-Zhang, R.<sup>*</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal and multi-decadal variability of the Agulhas Current. *submitted.*
+Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal and multi-decadal variability of the Agulhas Current. *submitted.*
 
-Zhang, R.<sup>*</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. Rapid weakening of the Agulhas Current in a warming climate. *submitted.*
+Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. Rapid weakening of the Agulhas Current in a warming climate. *submitted.*
 
 Wang, S., Z. Jing, L. Wu, **S. Sun**, Q. Peng, H. Wang, Y. Zhang, and J. Shi. Southern Hemisphere eastern boundary upwelling systems emerging as future hotspots of marine heatwaves under greenhouse warming. *submitted.*
 
