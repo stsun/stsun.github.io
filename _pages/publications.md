@@ -19,7 +19,6 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. Rapid weakening of the Agulhas Current in a warming climate. *submitted.*
 
-Wang, S., Z. Jing, L. Wu, **S. Sun**, Q. Peng, H. Wang, Y. Zhang, and J. Shi. Southern Hemisphere eastern boundary upwelling systems emerging as future hotspots of marine heatwaves under greenhouse warming. *submitted.*
 
 <!--
 Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ observations reveal deep imprints of oceanic submesoscale fronts on mid-latitude atmosphere. *submitted.*
@@ -29,6 +28,10 @@ Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ
 ## Peer-reviewed
  
 [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
+
+### In press
+
+Wang, S., Z. Jing, L. Wu, **S. Sun**, Q. Peng, H. Wang, Y. Zhang, and J. Shi. Southern Hemisphere eastern boundary upwelling systems emerging as future hotspots of marine heatwaves under greenhouse warming. *Nat. Commun.*, *accepted*.
 
 ### 2022
 
