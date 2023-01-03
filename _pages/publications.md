@@ -26,14 +26,13 @@ Yang, H., **S. Sun**, Z. Chen, K. Ma, X. Ma, Z. Jing, B. Gan, and L. Wu. In-situ
 
 ***
 ## Peer-reviewed
- 
-[2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
+[2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
-### In press
+### 2023
 
 Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal and multi-decadal variability of the Agulhas Current. *J. Phys. Oceanogr.*, *accepted*.
 
-Wang, S., Z. Jing, L. Wu, **S. Sun**, Q. Peng, H. Wang, Y. Zhang, and J. Shi. Southern Hemisphere eastern boundary upwelling systems emerging as future hotspots of marine heatwaves under greenhouse warming. *Nat. Commun.*, *accepted*.
+Wang, S., Z. Jing, L. Wu, **S. Sun**, Q. Peng, H. Wang, Y. Zhang, and J. Shi (2023). Southern Hemisphere eastern boundary upwelling systems emerging as future hotspots of marine heatwaves under greenhouse warming. *Nat. Commun.*, **14**, 28. [[publisher's version](http://dx.doi.org/10.1038/s41467-022-35666-8)]
 
 ### 2022
 
