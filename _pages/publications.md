@@ -34,7 +34,7 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ### 2023
 
-Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal and multi-decadal variability of the Agulhas Current. *J. Phys. Oceanogr.*, *accepted*.
+Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal and multi-decadal variability of the Agulhas Current. *J. Phys. Oceanogr.*, *accepted*. [[publisher's version](https://doi.org/10.1175/JPO-D-22-0123.1)]
 
 Wang, S., Z. Jing, L. Wu, **S. Sun**, Q. Peng, H. Wang, Y. Zhang, and J. Shi (2023). Southern Hemisphere eastern boundary upwelling systems emerging as future hotspots of marine heatwaves under greenhouse warming. *Nat. Commun.*, **14**, 28. [[publisher's version](http://dx.doi.org/10.1038/s41467-022-35666-8)]
 
