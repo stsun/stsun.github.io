@@ -31,7 +31,7 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ### 2023
 
-Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). Rapid 21<sub>st</sub> century weakening of the Agulhas Current in a warming climate. *Geophys. Res. Lett.*, *accepted*.
+Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). Rapid 21<sup>st</sup> century weakening of the Agulhas Current in a warming climate. *Geophys. Res. Lett.*, *accepted*.
 
 Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). On the decadal and multi-decadal variability of the Agulhas Current. *J. Phys. Oceanogr.*, *accepted*. [[publisher's version](https://doi.org/10.1175/JPO-D-22-0123.1)]
 
