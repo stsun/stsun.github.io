@@ -33,7 +33,7 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). Rapid 21<sup>st</sup> century weakening of the Agulhas Current in a warming climate. *Geophys. Res. Lett.*, 50, e2022GL102070. [[pdf,]({{files}}/Zhang-etal-2023-GRL-AgulhasCurrent.pdf) [code & data](https://doi.org/10.6084/m9.figshare.21802770), [publisher's version]( https://doi.org/10.1029/2022GL102070)]. 
 
-Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). On the decadal and multi-decadal variability of the Agulhas Current. *J. Phys. Oceanogr.*, *accepted*. [[publisher's version](https://doi.org/10.1175/JPO-D-22-0123.1)]
+Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). On the decadal and multi-decadal variability of the Agulhas Current. *J. Phys. Oceanogr.*, 53(4), 1011-1024. [[publisher's version](https://doi.org/10.1175/JPO-D-22-0123.1)]
 
 Wang, S., Z. Jing, L. Wu, **S. Sun**, Q. Peng, H. Wang, Y. Zhang, and J. Shi (2023). Southern Hemisphere eastern boundary upwelling systems emerging as future hotspots of marine heatwaves under greenhouse warming. *Nat. Commun.*, **14**, 28. [[publisher's version](http://dx.doi.org/10.1038/s41467-022-35666-8)]
 
