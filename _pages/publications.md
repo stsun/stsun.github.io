@@ -15,7 +15,6 @@ author_profile: true
 
 ## In Progress
 
-Zhang, G., R. Chen, L. Li, H. Wei, and **S. Sun**. Global trends in surface eddy mixing from satellite altimetry. *submitted.*
 
 <!--
 Names with a "#" represent students advised by me. 
@@ -30,6 +29,8 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
 ### 2023
+
+Zhang, G., R. Chen, L. Li, H. Wei, and **S. Sun** (2023). Global trends in surface eddy mixing from satellite altimetry. *Front. Mar. Sci.*, accepted. 
 
 Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). Rapid 21<sup>st</sup> century weakening of the Agulhas Current in a warming climate. *Geophys. Res. Lett.*, 50, e2022GL102070. [[pdf,]({{files}}/Zhang-etal-2023-GRL-AgulhasCurrent.pdf) [code & data](https://doi.org/10.6084/m9.figshare.21802770), [publisher's version]( https://doi.org/10.1029/2022GL102070)]. 
 
