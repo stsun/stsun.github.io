@@ -15,6 +15,7 @@ author_profile: true
 
 ## In Progress
 
+Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson. A framework for constraining ocean mixing rates and overturning circulation from age tracer distributions. *submitted*.
 
 <!--
 Names with a "#" represent students advised by me. 
