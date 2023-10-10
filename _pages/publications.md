@@ -15,6 +15,12 @@ author_profile: true
 
 ## In Progress
 
+Gao et al., Assessment of the Southern Ocean sea surface temperature biases in CMIP5 and CMIP6 models. *submitted*.
+
+Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
+
+Yang et al., Observations reveal unexpectedly intense air-sea exchanges over oceanic submesoscale front. *submitted*.
+
 Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson. A framework for constraining ocean mixing rates and overturning circulation from age tracer distributions. *submitted*.
 
 <!--
