@@ -15,11 +15,11 @@ author_profile: true
 
 ## In Progress
 
-Gao et al., Assessment of the Southern Ocean sea surface temperature biases in CMIP5 and CMIP6 models. *submitted*.
-
 Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
 
 Yang et al., Observations reveal unexpectedly intense air-sea exchanges over oceanic submesoscale front. *submitted*.
+
+Shan, X., **S. Sun**, L. Wu, and M. Spall. Labrador Current regulates the Atlantic Meridional Overturning Circulation decline in a warming climate. *submitted*.
 
 Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson. A framework for constraining ocean mixing rates and overturning circulation from age tracer distributions. *submitted*.
 
@@ -34,6 +34,10 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 ***
 ## Peer-reviewed
 [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
+
+### In Press
+
+Gao Z., S. Zhao, Q. Liu, S-M Long, and **S. Sun**, Assessment of the Southern Ocean sea surface temperature biases in CMIP5 and CMIP6 models. *accepted*.
 
 ### 2023
 
