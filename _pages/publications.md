@@ -15,9 +15,9 @@ author_profile: true
 
 ## In Progress
 
-Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
+Long et al., Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *submitted*
 
-Yang et al., Observations reveal unexpectedly intense air-sea exchanges over oceanic submesoscale front. *submitted*.
+Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
 
 Shan, X., **S. Sun**, L. Wu, and M. Spall. Labrador Current regulates the Atlantic Meridional Overturning Circulation decline in a warming climate. *submitted*.
 
@@ -33,15 +33,17 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ***
 ## Peer-reviewed
-[2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
+[2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
-### In Press
+### 2024
 
-Gao Z., S. Zhao, Q. Liu, S-M Long, and **S. Sun**, Assessment of the Southern Ocean sea surface temperature biases in CMIP5 and CMIP6 models. *accepted*.
+Yang H., Z. Chen, **S. Sun**, M. Li, W. Cai, L. Wu, et al. (2024), Observations reveal intense air-sea exchanges over submesoscale ocean front. *Geophys. Res. Lett.*, *accepted*
+
+Gao Z., S. Zhao, Q. Liu, S-M Long, and **S. Sun** (2024). Assessment of the Southern Ocean sea surface temperature biases in CMIP5 and CMIP6 models. *accepted*.
 
 ### 2023
 
-Zhang, G., R. Chen, L. Li, H. Wei, and **S. Sun** (2023). Global trends in surface eddy mixing from satellite altimetry. *Front. Mar. Sci.*, accepted. 
+Zhang, G., R. Chen, L. Li, H. Wei, and **S. Sun** (2023). Global trends in surface eddy mixing from satellite altimetry. *Front. Mar. Sci.*, 10:1157049. [[publisher's version](https://doi.org/10.3389/fmars.2023.1157049)]
 
 Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). Rapid 21<sup>st</sup> century weakening of the Agulhas Current in a warming climate. *Geophys. Res. Lett.*, 50, e2022GL102070. [[pdf,]({{files}}/Zhang-etal-2023-GRL-AgulhasCurrent.pdf) [code & data](https://doi.org/10.6084/m9.figshare.21802770), [publisher's version]( https://doi.org/10.1029/2022GL102070)]. 
 
