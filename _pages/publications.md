@@ -15,7 +15,9 @@ author_profile: true
 
 ## In Progress
 
-Long et al., Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *submitted*
+Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation. *submitted*.
+
+Long et al., Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *submitted*.
 
 Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
 
