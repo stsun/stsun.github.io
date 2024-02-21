@@ -11,7 +11,7 @@ author_profile: true
   You can also find my papers on my [Google Scholar](https://scholar.google.com/citations?user=IJMEC2EAAAAJ&hl=en) profile. Please contact me if you are interested in a paper under review. 
 {% endif %}
 
-{% assign files = "https://stsun.github.io/files" %**
+{% assign files = "https://stsun.github.io/files" %}
 
 ## In Progress
 
