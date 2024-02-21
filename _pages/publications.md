@@ -15,8 +15,6 @@ author_profile: true
 
 ## In Progress
 
-**Sun, S.**, A. F. Thompson, J. Yu, L. Wu. Transient Indo-Pacific circulation changes affect global ocean nutrient distribution and biological productivity. *submitted*
-
 Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation. *submitted*.
 
 Long et al., Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *submitted*.
