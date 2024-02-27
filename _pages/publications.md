@@ -11,11 +11,12 @@ author_profile: true
   You can also find my papers on my [Google Scholar](https://scholar.google.com/citations?user=IJMEC2EAAAAJ&hl=en) profile. Please contact me if you are interested in a paper under review. 
 {% endif %}
 
-{% assign files = "https://stsun.github.io/files** %}
+{% assign files = "https://stsun.github.io/files" %}
 
 ## In Progress
 
-**Sun, S.**, A. F. Thompson, J. Yu, L. Wu. Transient Indo-Pacific circulation changes affect global ocean nutrient distribution and biological productivity. *submitted*.
+
+**Sun, S.**, A. F. Thompson, J. Yu, L. Wu. Transient Indo-Pacific circulation changes affect global ocean nutrient distribution and biological productivity. *submitted**.
 
 Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation. *submitted*.
 
