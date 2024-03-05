@@ -15,14 +15,15 @@ author_profile: true
 
 ## In Progress
 
-
-**Sun, S.**, A. F. Thompson, J. Yu, L. Wu. Transient Indo-Pacific circulation changes affect global ocean nutrient distribution and biological productivity. *submitted**.
+**Sun, S.**, A. F. Thompson, J. Yu, L. Wu. Transient Indo-Pacific circulation changes affect global ocean nutrient distribution and biological productivity. *submitted*.
 
 Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation. *submitted*.
 
 Long et al., Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *submitted*.
 
+<!--
 Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
+-->
 
 Shan, X., **S. Sun**, L. Wu, and M. Spall. Labrador Current regulates the Atlantic Meridional Overturning Circulation decline in a warming climate. *submitted*.
 
@@ -44,7 +45,9 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 Yang, H., Z. Chen, **S. Sun**, M. Li, W. Cai, L. Wu, et al. (2024), Observations reveal intense air-sea exchanges over submesoscale ocean front. *Geophys. Res. Lett.*, 51, e2023GL106840. [[publisher's version](https://doi.org/10.1029/2023GL106840)]
 
+<!--
 Gao, Z., S. Zhao, Q. Liu, S-M Long, and **S. Sun** (2024). Assessment of the Southern Ocean sea surface temperature biases in CMIP5 and CMIP6 models. *accepted*.
+-->
 
 ### 2023
 
