@@ -25,7 +25,7 @@ Long et al., Weakened seasonality of the ocean surface mixed layer depth in the 
 Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
 -->
 
-Shan, X., **S. Sun**, L. Wu, and M. Spall. Labrador Current regulates the Atlantic Meridional Overturning Circulation decline in a warming climate. *submitted*.
+Shan, X., **S. Sun**, L. Wu, and M. Spall. Roles of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *submitted*.
 
 Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson. A framework for constraining ocean mixing rates and overturning circulation from age tracer distributions. *submitted*.
 
