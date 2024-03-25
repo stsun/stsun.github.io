@@ -19,8 +19,6 @@ author_profile: true
 
 Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation. *submitted*.
 
-Long et al., Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *submitted*.
-
 <!--
 Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
 -->
@@ -42,6 +40,8 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 [2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
 ### 2024
+
+Long, S-M, S. Zhang, Z. Gao, **S. Sun**, et al. (2024) Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *Geophys. Res. Lett.*, *accepted*.
 
 Yang, H., Z. Chen, **S. Sun**, M. Li, W. Cai, L. Wu, et al. (2024), Observations reveal intense air-sea exchanges over submesoscale ocean front. *Geophys. Res. Lett.*, 51, e2023GL106840. [[publisher's version](https://doi.org/10.1029/2023GL106840)]
 
