@@ -25,8 +25,6 @@ Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
 
 Shan, X., **S. Sun**, L. Wu, and M. Spall. Roles of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *submitted*.
 
-Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson. A framework for constraining ocean mixing rates and overturning circulation from age tracer distributions. *submitted*.
-
 <!--
 Names with a "#" represent students advised by me. 
 
@@ -41,12 +39,14 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ### 2024
 
+Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson. A framework for constraining ocean mixing rates and overturning circulation from age tracer distributions. *J. Phys. Oceanogr.*, accepted. 
+
 Long, S-M, S. Zhang, Z. Gao, **S. Sun**, et al. (2024) Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *Geophys. Res. Lett.*, 51, e2023GL107644. [[publisher's version](https://doi.org/10.1029/2023GL107644)]
 
 Yang, H., Z. Chen, **S. Sun**, et al. (2024), Observations reveal intense air-sea exchanges over submesoscale ocean front. *Geophys. Res. Lett.*, 51, e2023GL106840. [[publisher's version](https://doi.org/10.1029/2023GL106840)]
 
 
-Gao, Z., S. Zhao, Q. Liu, S-M Long, and **S. Sun** (2024). Assessment of the Southern Ocean sea surface temperature biases in CMIP5 and CMIP6 models. *accepted*.
+Gao, Z., S. Zhao, Q. Liu, S-M Long, and **S. Sun** (2024). Assessment of the Southern Ocean sea surface temperature biases in CMIP5 and CMIP6 models. *J. Ocean Univ. China*, accepted.
 
 ### 2023
 
