@@ -39,7 +39,7 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ### 2024
 
-Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson. A framework for constraining ocean mixing rates and overturning circulation from age tracer distributions. *J. Phys. Oceanogr.*, accepted. 
+Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson (2024). A framework for constraining ocean mixing rates and overturning circulation from age tracer distributions. *J. Phys. Oceanogr.*, accepted. 
 
 Long, S-M, S. Zhang, Z. Gao, **S. Sun**, et al. (2024) Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *Geophys. Res. Lett.*, 51, e2023GL107644. [[publisher's version](https://doi.org/10.1029/2023GL107644)]
 
