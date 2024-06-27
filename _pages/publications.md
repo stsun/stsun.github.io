@@ -15,7 +15,9 @@ author_profile: true
 
 ## In Progress
 
-**Sun, S.**, A. F. Thompson, J. Yu, L. Wu. Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *submitted*.
+Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun**. Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *submitted*.
+
+**Sun, S.**, A. F. Thompson, J. Yu, and L. Wu. Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *submitted*.
 
 Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation. *submitted*.
 
