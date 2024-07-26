@@ -25,7 +25,6 @@ Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakag
 Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
 -->
 
-Shan, X., **S. Sun**, L. Wu, and M. Spall. Roles of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *submitted*.
 
 <!--
 Names with a "#" represent students advised by me. 
@@ -40,6 +39,9 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 [2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
 ### 2024
+
+Shan, X., **S. Sun**, L. Wu, and M. Spall. Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, *accepted*.
+
 
 Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson (2024). A framework for constraining ocean mixing rates and overturning circulation from age tracers. *J. Phys. Oceanogr.*, [[publisher's version](https://doi.org/10.1175/JPO-D-23-0162.1)]. 
 
