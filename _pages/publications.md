@@ -42,12 +42,14 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 Shan, X., **S. Sun**, L. Wu, and M. Spall. Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, *accepted*.
 
+Wang, S., Z. Jing, L. Wu, **S. Sun**, et al. (2024). A more quiescent deep ocean under global warming. *Nat. Clim. Chang.* [[publisher's version]](https://doi.org/10.1038/s41558-024-02075-2)
+
 
 Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson (2024). A framework for constraining ocean mixing rates and overturning circulation from age tracers. *J. Phys. Oceanogr.*, [[publisher's version](https://doi.org/10.1175/JPO-D-23-0162.1)]. 
 
-Long, S-M, S. Zhang, Z. Gao, **S. Sun**, et al. (2024) Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *Geophys. Res. Lett.*, 51, e2023GL107644. [[publisher's version](https://doi.org/10.1029/2023GL107644)]
+Long, S-M, S. Zhang, Z. Gao, **S. Sun**, et al. (2024). Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *Geophys. Res. Lett.*, 51, e2023GL107644. [[publisher's version](https://doi.org/10.1029/2023GL107644)]
 
-Yang, H., Z. Chen, **S. Sun**, et al. (2024), Observations reveal intense air-sea exchanges over submesoscale ocean front. *Geophys. Res. Lett.*, 51, e2023GL106840. [[publisher's version](https://doi.org/10.1029/2023GL106840)]
+Yang, H., Z. Chen, **S. Sun**, et al. (2024). Observations reveal intense air-sea exchanges over submesoscale ocean front. *Geophys. Res. Lett.*, 51, e2023GL106840. [[publisher's version](https://doi.org/10.1029/2023GL106840)]
 
 
 Gao, Z., S. Zhao, Q. Liu, S-M Long, and **S. Sun** (2024). Assessment of the Southern Ocean sea surface temperature biases in CMIP5 and CMIP6 models. *J. Ocean Univ. China*, accepted.
