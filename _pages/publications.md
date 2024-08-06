@@ -15,6 +15,8 @@ author_profile: true
 
 ## In Progress
 
+Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *submitted*.
+
 Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun**. Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *submitted*.
 
 **Sun, S.**, A. F. Thompson, J. Yu, and L. Wu. Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *submitted*.
