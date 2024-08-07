@@ -15,7 +15,7 @@ author_profile: true
 
 ## In Progress
 
-Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *submitted*.
+Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *submitted*. [[preprint](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport)]
 
 Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun**. Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *submitted*.
 
@@ -44,7 +44,7 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 Shan, X., **S. Sun**, L. Wu, and M. Spall. Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, *accepted*.
 
-Wang, S., Z. Jing, L. Wu, **S. Sun**, et al. (2024). A more quiescent deep ocean under global warming. *Nat. Clim. Chang.* [[publisher's version]](https://doi.org/10.1038/s41558-024-02075-2)
+Wang, S., Z. Jing, L. Wu, **S. Sun**, et al. (2024). A more quiescent deep ocean under global warming. *Nat. Clim. Chang.* [[publisher's version](https://doi.org/10.1038/s41558-024-02075-2)].
 
 
 Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson (2024). A framework for constraining ocean mixing rates and overturning circulation from age tracers. *J. Phys. Oceanogr.*, [[publisher's version](https://doi.org/10.1175/JPO-D-23-0162.1)]. 
