@@ -42,7 +42,7 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ### 2024
 
-Shan, X., **S. Sun**, L. Wu, and M. Spall. Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, *accepted*.
+Shan, X., **S. Sun**, L. Wu, and M. Spall. Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, **15**, 7361. [[publisher's version](https://doi.org/10.1038/s41467-024-51449-9)]
 
 Wang, S., Z. Jing, L. Wu, **S. Sun**, et al. (2024). A more quiescent deep ocean under global warming. *Nat. Clim. Chang.* [[publisher's version](https://doi.org/10.1038/s41558-024-02075-2)].
 
