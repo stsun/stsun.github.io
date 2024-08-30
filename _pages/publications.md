@@ -19,8 +19,6 @@ Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng. How the Subsurface T
 
 Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun**. Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *submitted*.
 
-**Sun, S.**, A. F. Thompson, J. Yu, and L. Wu. Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *submitted*.
-
 Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation. *submitted*.
 
 <!--
@@ -41,6 +39,9 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 [2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
 ### 2024
+
+**Sun, S.**, A. F. Thompson, J. Yu, and L. Wu. Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *Nat. Commun.*, *accepted*.
+
 
 Shan, X., **S. Sun**, L. Wu, and M. Spall. Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, **15**, 7361. [[publisher's version](https://doi.org/10.1038/s41467-024-51449-9)]
 
