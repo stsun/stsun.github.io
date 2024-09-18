@@ -40,8 +40,7 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ### 2024
 
-**Sun, S.**, A. F. Thompson, J. Yu, and L. Wu. Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *Nat. Commun.*, *accepted*.
-
+**Sun, S.**, A. F. Thompson, J. Yu, and L. Wu. Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *Nat. Commun.*, **15**, 7727. [[publisher's version](https://doi.org/10.1038/s41467-024-52200-0)]
 
 Shan, X., **S. Sun**, L. Wu, and M. Spall. Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, **15**, 7361. [[publisher's version](https://doi.org/10.1038/s41467-024-51449-9)]
 
