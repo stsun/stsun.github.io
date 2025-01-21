@@ -19,7 +19,7 @@ Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng. How the Subsurface T
 
 Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun**. Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *submitted*.
 
-Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation. *submitted*.
+Shan, X., M. Spall, **S. Sun**, and L. Wu. 	Beaufort Gyre Freshwater Content Change under Greenhouse Warming from an Eddy-resolving Climate Simulation. *submitted*.
 
 <!--
 Wang et al., A More Quiescent Deep Ocean under Global Warming. *submitted*.
@@ -36,7 +36,12 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ***
 ## Peer-reviewed
-[2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
+[2025](#2025) &nbsp; [2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
+
+### 2025
+
+Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation in the present climate. *Commun. Earth Environ.*, *accepted.*
+
 
 ### 2024
 
