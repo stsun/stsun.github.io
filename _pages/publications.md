@@ -40,7 +40,7 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ### 2025
 
-Zhang, R., **S. Sun**, Z. Chen, and L. Wu (2025). Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation in the present climate. *Commun. Earth Environ.*, **6**, 133. [[full text](https://doi.org/10.1038/s43247-025-02097-4)] 
+Zhang, R., **S. Sun**, Z. Chen, and L. Wu (2025). Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation under present-day climate conditions. *Commun. Earth Environ.*, **6**, 133. [[full text](https://doi.org/10.1038/s43247-025-02097-4)] 
 
 ### 2024
 
