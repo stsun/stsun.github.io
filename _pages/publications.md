@@ -40,14 +40,13 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ### 2025
 
-Zhang, R., **S. Sun**, Z. Chen, and L. Wu. Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation in the present climate. *Commun. Earth Environ.*, accepted.
-
+Zhang, R., **S. Sun**, Z. Chen, and L. Wu (2025). Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation in the present climate. *Commun. Earth Environ.*, **6**, 133. [[full text](https://doi.org/10.1038/s43247-025-02097-4)] 
 
 ### 2024
 
-**Sun, S.**, A. F. Thompson, J. Yu, and L. Wu. Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *Nat. Commun.*, **15**, 7727. [[publisher's version,](https://doi.org/10.1038/s41467-024-52200-0) [Editors' Highlights](https://www.nature.com/collections/eihfbddfac)]
+**Sun, S.**, A. F. Thompson, J. Yu, and L. Wu (2024). Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *Nat. Commun.*, **15**, 7727. [[publisher's version,](https://doi.org/10.1038/s41467-024-52200-0) [Editors' Highlights](https://www.nature.com/collections/eihfbddfac)]
 
-Shan, X., **S. Sun**, L. Wu, and M. Spall. Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, **15**, 7361. [[publisher's version](https://doi.org/10.1038/s41467-024-51449-9)]
+Shan, X., **S. Sun**, L. Wu, and M. Spall (2024). Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, **15**, 7361. [[publisher's version](https://doi.org/10.1038/s41467-024-51449-9)]
 
 Wang, S., Z. Jing, L. Wu, **S. Sun**, et al. (2024). A more quiescent deep ocean under global warming. *Nat. Clim. Chang.* [[publisher's version](https://doi.org/10.1038/s41558-024-02075-2)].
 
