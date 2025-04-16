@@ -18,7 +18,6 @@ author_profile: true
 
 Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun**. Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *submitted*.
 
-Shan, X., M. Spall, **S. Sun**, and L. Wu. 	Beaufort Gyre Freshwater Content Change under Greenhouse Warming from an Eddy-resolving Climate Simulation. *submitted*.
 
 
 <!--
@@ -34,6 +33,9 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 [2025](#2025) &nbsp; [2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
 ### 2025
+
+Shan, X., M. Spall, **S. Sun**, and L. Wu. 	Beaufort Gyre Freshwater Content Change under Greenhouse Warming from an Eddy-resolving Climate Simulation. *Geophs. Res. Lett.*, *accepted*.
+
 
 Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *J. Clim.*, *accepted*. [[preprint](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport)]
 
