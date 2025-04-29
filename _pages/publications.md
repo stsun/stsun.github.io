@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% if "a" == "a" %}
-  You can also find my papers on my [Google Scholar](https://scholar.google.com/citations?user=IJMEC2EAAAAJ&hl=en) profile. Please contact me if you are interested in a paper under review. 
+  You can also find my papers on my [Google Scholar](https://scholar.google.com/citations?user=IJMEC2EAAAAJ&hl=en) profile. Please contact me if you are interested in a paper in progress. Projects I supervised are <u>underlined</u> below.
 {% endif %}
 
 {% assign files = "https://stsun.github.io/files" %}
@@ -28,7 +28,7 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 -->
 
 ***
-## Peer-reviewed [Projects I supervised are <u>underlined</u> below.]
+## Peer-reviewed 
 [2025](#2025) &nbsp; [2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
 ### 2025
@@ -42,7 +42,7 @@ Shan, X., M. Spall, **S. Sun**, and L. Wu (2025). 	Beaufort Gyre Freshwater Cont
 Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng (2025). How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *J. Clim.*, *accepted*. [[preprint](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport)]
 
 
-Zhang, R., **S. Sun**, Z. Chen, and L. Wu (2025). Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation under present-day climate conditions. *Commun. Earth Environ.*, **6**, 133. [[full text](https://doi.org/10.1038/s43247-025-02097-4)] 
+Zhang, R., **S. Sun**, Z. Chen, and L. Wu (2025). <u>Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation under present-day climate conditions</u>. *Commun. Earth Environ.*, **6**, 133. [[full text](https://doi.org/10.1038/s43247-025-02097-4)] 
 
 ### 2024
 
