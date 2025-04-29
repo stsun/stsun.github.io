@@ -33,13 +33,13 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ### 2025
 
-Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun**. Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *Nat. Geosci.*, *accepted*. 
+Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun** (2025). Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *Nat. Geosci.*, *accepted*. 
 
 
-Shan, X., M. Spall, **S. Sun**, and L. Wu. 	Beaufort Gyre Freshwater Content Change under Greenhouse Warming from an Eddy-resolving Climate Simulation. *Geophs. Res. Lett.*, 52(8), e2024GL113847. [[full text](https://doi.org/10.1029/2024GL113847)]
+Shan, X., M. Spall, **S. Sun**, and L. Wu (2025). 	Beaufort Gyre Freshwater Content Change under Greenhouse Warming from an Eddy-resolving Climate Simulation. *Geophs. Res. Lett.*, 52(8), e2024GL113847. [[full text](https://doi.org/10.1029/2024GL113847)]
 
 
-Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *J. Clim.*, *accepted*. [[preprint](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport)]
+Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng (2025). How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *J. Clim.*, *accepted*. [[preprint](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport)]
 
 
 Zhang, R., **S. Sun**, Z. Chen, and L. Wu (2025). Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation under present-day climate conditions. *Commun. Earth Environ.*, **6**, 133. [[full text](https://doi.org/10.1038/s43247-025-02097-4)] 
