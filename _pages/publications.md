@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% if "a" == "a" %}
-  You can also find my papers on my [Google Scholar](https://scholar.google.com/citations?user=IJMEC2EAAAAJ&hl=en) profile. Please contact me if you are interested in a paper in progress. Projects I supervised are <u>underlined</u> below.
+  You can also find my papers on my [Google Scholar](https://scholar.google.com/citations?user=IJMEC2EAAAAJ&hl=en) profile. Please contact me if you are interested in a paper in progress. Projects I supervised are in *italics* below.
 {% endif %}
 
 {% assign files = "https://stsun.github.io/files" %}
@@ -42,13 +42,13 @@ Shan, X., M. Spall, **S. Sun**, and L. Wu (2025). 	Beaufort Gyre Freshwater Cont
 Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng (2025). How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *J. Clim.*, *accepted*. [[preprint](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport)]
 
 
-Zhang, R., **S. Sun**, Z. Chen, and L. Wu (2025). <u>Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation under present-day climate conditions</u>. *Commun. Earth Environ.*, **6**, 133. [[full text](https://doi.org/10.1038/s43247-025-02097-4)] 
+Zhang, R., **S. Sun**, Z. Chen, and L. Wu (2025). *Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation under present-day climate conditions*. *Commun. Earth Environ.*, **6**, 133. [[full text](https://doi.org/10.1038/s43247-025-02097-4)] 
 
 ### 2024
 
 **Sun, S.**, A. F. Thompson, J. Yu, and L. Wu (2024). Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *Nat. Commun.*, **15**, 7727. [[full text,](https://doi.org/10.1038/s41467-024-52200-0) [Editors' Highlights](https://www.nature.com/collections/eihfbddfac)]
 
-Shan, X., **S. Sun**, L. Wu, and M. Spall (2024). Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, **15**, 7361. [[full text](https://doi.org/10.1038/s41467-024-51449-9)]
+Shan, X., **S. Sun**, L. Wu, and M. Spall (2024). *Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming*. *Nat. Commun.*, **15**, 7361. [[full text](https://doi.org/10.1038/s41467-024-51449-9)]
 
 Wang, S., Z. Jing, L. Wu, **S. Sun**, et al. (2024). A more quiescent deep ocean under global warming. *Nat. Clim. Chang.* [[full text](https://doi.org/10.1038/s41558-024-02075-2)].
 
@@ -66,7 +66,7 @@ Gao, Z., S. Zhao, Q. Liu, S-M Long, and **S. Sun** (2024). Assessment of the Sou
 
 Zhang, G., R. Chen, L. Li, H. Wei, and **S. Sun** (2023). Global trends in surface eddy mixing from satellite altimetry. *Front. Mar. Sci.*, 10:1157049. [[full text](https://doi.org/10.3389/fmars.2023.1157049)]
 
-Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). Rapid 21<sup>st</sup> century weakening of the Agulhas Current in a warming climate. *Geophys. Res. Lett.*, 50, e2022GL102070. [[pdf,]({{files}}/Zhang-etal-2023-GRL-AgulhasCurrent.pdf) [code & data](https://doi.org/10.6084/m9.figshare.21802770), [publisher's version]( https://doi.org/10.1029/2022GL102070)]. 
+Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). *Rapid 21<sup>st</sup> century weakening of the Agulhas Current in a warming climate*. *Geophys. Res. Lett.*, 50, e2022GL102070. [[pdf,]({{files}}/Zhang-etal-2023-GRL-AgulhasCurrent.pdf) [code & data](https://doi.org/10.6084/m9.figshare.21802770), [publisher's version]( https://doi.org/10.1029/2022GL102070)]. 
 
 Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). On the decadal and multi-decadal variability of the Agulhas Current. *J. Phys. Oceanogr.*, 53(4), 1011-1024. [[full text](https://doi.org/10.1175/JPO-D-22-0123.1)]
 
