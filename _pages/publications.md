@@ -16,7 +16,6 @@ author_profile: true
 ## In Progress
 
 
-Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun**. Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *submitted*.
 
 
 
@@ -29,12 +28,15 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 -->
 
 ***
-## Peer-reviewed
+## Peer-reviewed [Projects I supervised are <u>underlined</u> below.]
 [2025](#2025) &nbsp; [2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
 
 ### 2025
 
-Shan, X., M. Spall, **S. Sun**, and L. Wu. 	Beaufort Gyre Freshwater Content Change under Greenhouse Warming from an Eddy-resolving Climate Simulation. *Geophs. Res. Lett.*, *accepted*.
+Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun**. Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *Nat. Geosci.*, *accepted*. 
+
+
+Shan, X., M. Spall, **S. Sun**, and L. Wu. 	Beaufort Gyre Freshwater Content Change under Greenhouse Warming from an Eddy-resolving Climate Simulation. *Geophs. Res. Lett.*, 52(8), e2024GL113847. [[full text](https://doi.org/10.1029/2024GL113847)]
 
 
 Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng. How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *J. Clim.*, *accepted*. [[preprint](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport)]
@@ -44,43 +46,43 @@ Zhang, R., **S. Sun**, Z. Chen, and L. Wu (2025). Limited impacts of the Agulhas
 
 ### 2024
 
-**Sun, S.**, A. F. Thompson, J. Yu, and L. Wu (2024). Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *Nat. Commun.*, **15**, 7727. [[publisher's version,](https://doi.org/10.1038/s41467-024-52200-0) [Editors' Highlights](https://www.nature.com/collections/eihfbddfac)]
+**Sun, S.**, A. F. Thompson, J. Yu, and L. Wu (2024). Transient overturning changes cause global upper-ocean nutrient decline in a warming climate. *Nat. Commun.*, **15**, 7727. [[full text,](https://doi.org/10.1038/s41467-024-52200-0) [Editors' Highlights](https://www.nature.com/collections/eihfbddfac)]
 
-Shan, X., **S. Sun**, L. Wu, and M. Spall (2024). Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, **15**, 7361. [[publisher's version](https://doi.org/10.1038/s41467-024-51449-9)]
+Shan, X., **S. Sun**, L. Wu, and M. Spall (2024). Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming. *Nat. Commun.*, **15**, 7361. [[full text](https://doi.org/10.1038/s41467-024-51449-9)]
 
-Wang, S., Z. Jing, L. Wu, **S. Sun**, et al. (2024). A more quiescent deep ocean under global warming. *Nat. Clim. Chang.* [[publisher's version](https://doi.org/10.1038/s41558-024-02075-2)].
+Wang, S., Z. Jing, L. Wu, **S. Sun**, et al. (2024). A more quiescent deep ocean under global warming. *Nat. Clim. Chang.* [[full text](https://doi.org/10.1038/s41558-024-02075-2)].
 
 
-Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson (2024). A framework for constraining ocean mixing rates and overturning circulation from age tracers. *J. Phys. Oceanogr.*, [[publisher's version](https://doi.org/10.1175/JPO-D-23-0162.1)]. 
+Zhang, B., M. Linz, **S. Sun**, and A. F. Thompson (2024). A framework for constraining ocean mixing rates and overturning circulation from age tracers. *J. Phys. Oceanogr.*, [[full text](https://doi.org/10.1175/JPO-D-23-0162.1)]. 
 
-Long, S-M, S. Zhang, Z. Gao, **S. Sun**, et al. (2024). Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *Geophys. Res. Lett.*, 51, e2023GL107644. [[publisher's version](https://doi.org/10.1029/2023GL107644)]
+Long, S-M, S. Zhang, Z. Gao, **S. Sun**, et al. (2024). Weakened seasonality of the ocean surface mixed layer depth in the Southern Indian Ocean during 1980-2019. *Geophys. Res. Lett.*, 51, e2023GL107644. [[full text](https://doi.org/10.1029/2023GL107644)]
 
-Yang, H., Z. Chen, **S. Sun**, et al. (2024). Observations reveal intense air-sea exchanges over submesoscale ocean front. *Geophys. Res. Lett.*, 51, e2023GL106840. [[publisher's version](https://doi.org/10.1029/2023GL106840)]
+Yang, H., Z. Chen, **S. Sun**, et al. (2024). Observations reveal intense air-sea exchanges over submesoscale ocean front. *Geophys. Res. Lett.*, 51, e2023GL106840. [[full text](https://doi.org/10.1029/2023GL106840)]
 
 
 Gao, Z., S. Zhao, Q. Liu, S-M Long, and **S. Sun** (2024). Assessment of the Southern Ocean sea surface temperature biases in CMIP5 and CMIP6 models. *J. Ocean Univ. China*, accepted.
 
 ### 2023
 
-Zhang, G., R. Chen, L. Li, H. Wei, and **S. Sun** (2023). Global trends in surface eddy mixing from satellite altimetry. *Front. Mar. Sci.*, 10:1157049. [[publisher's version](https://doi.org/10.3389/fmars.2023.1157049)]
+Zhang, G., R. Chen, L. Li, H. Wei, and **S. Sun** (2023). Global trends in surface eddy mixing from satellite altimetry. *Front. Mar. Sci.*, 10:1157049. [[full text](https://doi.org/10.3389/fmars.2023.1157049)]
 
 Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). Rapid 21<sup>st</sup> century weakening of the Agulhas Current in a warming climate. *Geophys. Res. Lett.*, 50, e2022GL102070. [[pdf,]({{files}}/Zhang-etal-2023-GRL-AgulhasCurrent.pdf) [code & data](https://doi.org/10.6084/m9.figshare.21802770), [publisher's version]( https://doi.org/10.1029/2022GL102070)]. 
 
-Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). On the decadal and multi-decadal variability of the Agulhas Current. *J. Phys. Oceanogr.*, 53(4), 1011-1024. [[publisher's version](https://doi.org/10.1175/JPO-D-22-0123.1)]
+Zhang, R., **S. Sun**, Z. Chen, H. Yang, and L. Wu (2023). On the decadal and multi-decadal variability of the Agulhas Current. *J. Phys. Oceanogr.*, 53(4), 1011-1024. [[full text](https://doi.org/10.1175/JPO-D-22-0123.1)]
 
-Wang, S., Z. Jing, L. Wu, **S. Sun**, Q. Peng, H. Wang, Y. Zhang, and J. Shi (2023). Southern Hemisphere eastern boundary upwelling systems emerging as future hotspots of marine heatwaves under greenhouse warming. *Nat. Commun.*, **14**, 28. [[publisher's version](http://dx.doi.org/10.1038/s41467-022-35666-8)]
+Wang, S., Z. Jing, L. Wu, **S. Sun**, Q. Peng, H. Wang, Y. Zhang, and J. Shi (2023). Southern Hemisphere eastern boundary upwelling systems emerging as future hotspots of marine heatwaves under greenhouse warming. *Nat. Commun.*, **14**, 28. [[full text](http://dx.doi.org/10.1038/s41467-022-35666-8)]
 
 ### 2022
 
-Bonan, D. B., A. F. Thompson, E. R. Newsom, **S. Sun**, and M. Rugenstein (2022). Transient and equilibrium responses of the Atlantic overturning circulation to warming in coupled climate models: the role of temperature and salinity. *J. Clim.*, 35(15), 5173-5193. [[publisher's version](https://doi.org/10.1175/JCLI-D-21-0912.1)]
+Bonan, D. B., A. F. Thompson, E. R. Newsom, **S. Sun**, and M. Rugenstein (2022). Transient and equilibrium responses of the Atlantic overturning circulation to warming in coupled climate models: the role of temperature and salinity. *J. Clim.*, 35(15), 5173-5193. [[full text](https://doi.org/10.1175/JCLI-D-21-0912.1)]
 
-Wilson, E. A., A. F. Thompson, A. Stewart, and **S. Sun** (2022). Bathymetric control of subpolar gyres and the overturning circulation in the Southern Ocean. *J. Phys. Oceanogr.*, 52(2), 205-223. [[publisher's version](https://doi.org/10.1175/JPO-D-21-0136.1)]
+Wilson, E. A., A. F. Thompson, A. Stewart, and **S. Sun** (2022). Bathymetric control of subpolar gyres and the overturning circulation in the Southern Ocean. *J. Phys. Oceanogr.*, 52(2), 205-223. [[full text](https://doi.org/10.1175/JPO-D-21-0136.1)]
 
 **Sun, S.**, A. F. Thompson, S.-P. Xie, and S.-M. Long (2022). Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation. *J. Clim.*, 35(2), 815-832. [[pdf,]({{files}}/Sun-Thompson-Xie-Long-2022-JClim.pdf) [publisher's version,](https://doi.org/10.1175/JCLI-D-21-0346.1) [code](https://doi.org/10.6084/m9.figshare.16308111)]
 
 ### 2021
 
-Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2021). Influence of the Kuroshio intrusion on deep flow intraseasonal variability in the northern South China Sea.  *J. Geophys. Res.*, e2021JC017429. [[Publisher's Version](https://doi.org/10.1029/2021JC017429)]
+Quan, Q., Z. Liu, **S. Sun**, Z. Cai, Y. Yang, G. Jin, Z. Li, and X.-S. Liang (2021). Influence of the Kuroshio intrusion on deep flow intraseasonal variability in the northern South China Sea.  *J. Geophys. Res.*, e2021JC017429. [[full text](https://doi.org/10.1029/2021JC017429)]
 
 **Sun, S.** and I. Eisenman (2021). Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity. *Nat. Commun.*, 12, 1060. [[pdf,]({{files}}/Sun-Eisenman-2021-NCOMMS.pdf)  [publisher's version,](https://doi.org/10.1038/s41467-021-21412-z)  [a news piece,](https://scripps.ucsd.edu/news/simulation-vs-reality-researchers-modify-climate-model-explain-expanding-antarctic-sea-ice) [data,](https://doi.org/10.6084/m9.figshare.12857672.v3) [a Eos piece](https://doi.org/10.1029/2022EO220076)]
 
