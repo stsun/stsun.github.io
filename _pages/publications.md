@@ -16,7 +16,9 @@ author_profile: true
 ## In Progress
 
 
+Wang, W., **S. Sun**, and L. Wu. *Bipolar oceanic processes drive Indonesian Throughflow declines under climate warming.* *Submitted.*
 
+Quan, Q., H. Xue, **S. Sun**, *et al.*, Observed Linkage of the Bottom Pressure Variability in the Luzon Strait to the Kuroshio Extension. *Submitted.* 
 
 
 <!--
