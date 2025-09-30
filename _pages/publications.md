@@ -15,6 +15,7 @@ author_profile: true
 
 ## In Progress
 
+Gao, Z., **S. Sun**, D. Sun, J. Yu, and L. Wu. *Extratropical forcing of low-latitude subsurface oxygenation under future warming*. *Submitted.*
 
 Wang, W., **S. Sun**, and L. Wu. *Bipolar oceanic processes drive Indonesian Throughflow declines under climate warming.* *Submitted.*
 
