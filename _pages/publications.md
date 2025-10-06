@@ -15,6 +15,8 @@ author_profile: true
 
 ## In Progress
 
+Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, and K. Armour. Explaining the Equatorial Pacific Thermocline Response to Climate Change with a Model Hierarchy. *Submitted.*
+
 Gao, Z., **S. Sun**, D. Sun, J. Yu, and L. Wu. *Extratropical forcing of low-latitude subsurface oxygenation under future warming*. *Submitted.*
 
 Wang, W., **S. Sun**, and L. Wu. *Bipolar oceanic processes drive Indonesian Throughflow declines under climate warming.* *Submitted.*
