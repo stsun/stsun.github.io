@@ -19,8 +19,6 @@ Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, and K. Armour. Explaining the
 
 Gao, Z., **S. Sun**, D. Sun, J. Yu, and L. Wu. *Extratropical forcing of low-latitude subsurface oxygenation under future warming*. *Submitted.*
 
-Wang, W., **S. Sun**, and L. Wu. *Bipolar oceanic processes drive Indonesian Throughflow declines under climate warming.* *Submitted.*
-
 Quan, Q., H. Xue, **S. Sun**, *et al.*, Observed Linkage of the Bottom Pressure Variability in the Luzon Strait to the Kuroshio Extension. *Submitted.* 
 
 
@@ -34,17 +32,23 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ***
 ## Peer-reviewed 
-[2025](#2025) &nbsp; [2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
+[2026](#2026) &nbsp; [2025](#2025) &nbsp; [2024](#2024) &nbsp; [2023](#2023) &nbsp; [2022](#2022) &nbsp; [2021](#2021) &nbsp; [2020](#2020) &nbsp; [2018](#2018) &nbsp; [2017](#2017) &nbsp; [2016](#2016) &nbsp; [2013-2015](#2013-2015)
+
+
+### 2026
+
+Wang, W., **S. Sun**, and L. Wu. *Bipolar oceanic processes drive Indonesian Throughflow declines under climate warming.* *Geophs. Res. Lett.*, *accepted.* [[preprint](https://doi.org/10.22541/essoar.176860120.05227338/v1)]
+
 
 ### 2025
 
-Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun** (2025). Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *Nat. Geosci.*, *accepted*. 
+Bonan, D.B., A.F. Thompson, T. Schneider, L. Zanna, K.C. Armour, and **S. Sun** (2025). Constraints imply limited future weakening of the Atlantic meridional overturning circulation. *Nat. Geosci.*, 18, 479-487. [[full text](https://doi.org/10.1038/s41561-025-01709-0)]
 
 
 Shan, X., M. Spall, **S. Sun**, and L. Wu (2025). 	Beaufort Gyre Freshwater Content Change under Greenhouse Warming from an Eddy-resolving Climate Simulation. *Geophs. Res. Lett.*, 52(8), e2024GL113847. [[full text](https://doi.org/10.1029/2024GL113847)]
 
 
-Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng (2025). How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *J. Clim.*, *accepted*. [[preprint](https://essopenarchive.org/users/529275/articles/1213753-how-the-subsurface-tropical-pacific-responds-to-hemispherically-asymmetric-temperature-forcing-implications-for-cross-equatorial-mass-and-heat-transport)]
+Luongo, M. T., S.-P. Xie, I. Eisenman, **S. Sun**, Q. Peng (2025). How the Subsurface Tropical Pacific Responds to Hemispherically Asymmetric Temperature Forcing: Implications for Cross-Equatorial Mass and Heat Transport. *J. Clim.*, 38(14), 3313-3331. [[full text](https://doi.org/10.1175/JCLI-D-24-0440.1)]
 
 
 Zhang, R., **S. Sun**, Z. Chen, and L. Wu (2025). *Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation under present-day climate conditions*. *Commun. Earth Environ.*, **6**, 133. [[full text](https://doi.org/10.1038/s43247-025-02097-4)] 
