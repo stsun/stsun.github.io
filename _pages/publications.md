@@ -37,8 +37,7 @@ Zhang, R.<sup>#</sup>, **S. Sun**, Z. Chen, H. Yang, and L. Wu. On the decadal a
 
 ### 2026
 
-Wang, W., **S. Sun**, and L. Wu (2026). *Bipolar oceanic processes drive Indonesian Throughflow declines under climate warming.* *Geophs. Res. Lett.*, 53, e2026GL121630. [[preprint](https://doi.org/10.22541/essoar.176860120.05227338/v1)] [[full text](https://doi.
-org/10.1029/2026GL121630)]
+Wang, W., **S. Sun**, and L. Wu (2026). *Bipolar oceanic processes drive Indonesian Throughflow declines under climate warming.* *Geophs. Res. Lett.*, 53, e2026GL121630. [[preprint](https://doi.org/10.22541/essoar.176860120.05227338/v1)] [[full text](https://doi.org/10.1029/2026GL121630)]
 
 
 ### 2025
