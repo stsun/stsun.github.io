@@ -12,6 +12,8 @@
     <meta property="og:description" content="Oceanographer at Laoshan Laboratory. Research on climate dynamics, ocean circulation, and ocean-atmosphere interactions.">
     <meta property="og:url" content="https://stsun.github.io/">
     <meta property="og:image" content="https://stsun.github.io/images/Me-2020-FSU.jpg">
+    <meta property="og:image:width" content="600">
+    <meta property="og:image:height" content="841">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Shantong Sun | Oceanographer">
     <meta name="twitter:description" content="Oceanographer at Laoshan Laboratory. Research on climate dynamics, ocean circulation, and ocean-atmosphere interactions.">
@@ -34,6 +36,7 @@
         "email": "mailto:silencesst@gmail.com",
         "url": "https://stsun.github.io/",
         "sameAs": [
+            "https://orcid.org/0000-0002-6932-5589",
             "https://scholar.google.com/citations?user=IJMEC2EAAAAJ&hl=en",
             "https://www.researchgate.net/profile/Shantong-Sun-3/"
         ],
@@ -136,7 +139,11 @@
         .logo-icon svg {
             width: 18px;
             height: 18px;
-            fill: white;
+            fill: none;
+            stroke: white;
+            stroke-width: 2;
+            stroke-linecap: round;
+            stroke-linejoin: round;
         }
 
         .logo-text {
@@ -220,6 +227,14 @@
         .location svg {
             width: 16px;
             height: 16px;
+        }
+
+        .affiliation {
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: var(--text);
+            margin-top: -1.25rem;
+            margin-bottom: 1.5rem;
         }
 
         .btn {
@@ -420,6 +435,11 @@
             margin-bottom: 0.25rem;
         }
 
+        .pub-authors strong {
+            color: var(--primary);
+            font-weight: 700;
+        }
+
         .pub-venue {
             font-size: 0.9rem;
             color: var(--text-light);
@@ -584,7 +604,7 @@
             <div class="header-content">
                 <a href="/" class="logo">
                     <div class="logo-icon">
-                        <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+                        <svg viewBox="0 0 24 24"><path d="M2 8c2.5 0 2.5 1.7 5 1.7S9.5 8 12 8s2.5 1.7 5 1.7S19.5 8 22 8"/><path d="M2 13c2.5 0 2.5 1.7 5 1.7S9.5 13 12 13s2.5 1.7 5 1.7S19.5 13 22 13"/><path d="M2 18c2.5 0 2.5 1.7 5 1.7s2.5-1.7 5-1.7 2.5 1.7 5 1.7 2.5-1.7 5-1.7"/></svg>
                     </div>
                     <span class="logo-text">Shantong Sun</span>
                 </a>
@@ -614,6 +634,7 @@
                         </svg>
                         Qingdao, China
                     </div>
+                    <p class="affiliation">Laoshan Laboratory</p>
                     <div class="research-tags">
                         <span class="tag">Ocean Dynamics</span>
                         <span class="tag">Climate Change</span>
@@ -643,6 +664,12 @@
                         </svg>
                         Google Scholar
                     </a>
+                    <a href="https://orcid.org/0000-0002-6932-5589" class="social-link" target="_blank" rel="noopener" aria-label="ORCID profile">
+                        <svg viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.516.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/>
+                        </svg>
+                        ORCID
+                    </a>
                     <a href="https://www.researchgate.net/profile/Shantong-Sun-3/" class="social-link" target="_blank" rel="noopener" aria-label="ResearchGate profile">
                         <svg viewBox="0 0 24 24" fill="currentColor">
                             <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"/>
@@ -660,7 +687,7 @@
                         I am an oceanographer at the Laoshan Laboratory in Qingdao, China. Prior to this appointment, I was a postdoc at the California Institute of Technology and an Assistant Professor at Florida State University. I obtained my PhD from the Scripps Institution of Oceanography in 2019.
                     </p>
                     <p class="bio">
-                        Research in my group advances fundamental understanding of climate dynamics from the perspective of ocean dynamics, with a focus on the physical mechanisms governing ocean circulation and its response to climate change — from the meridional overturning circulation to its variability and coupling with the broader climate system. More broadly, I am interested in how the ocean interacts with the atmosphere, cryosphere, and marine ecosystems.
+                        My group's research is rooted in ocean dynamics and seeks to advance fundamental understanding of the ocean's role in the climate system. We focus on the physical mechanisms governing ocean circulation and its response to climate change — from the global overturning circulation to regional currents — and their implications for heat and carbon transport. More broadly, I am interested in the interactions among the ocean, atmosphere, cryosphere, and marine ecosystems.
                     </p>
                 </section>
                 <!-- Contact -->
@@ -706,7 +733,7 @@
                 <!-- Publications -->
                 <section id="publications" class="section">
                     <div class="section-header">
-                        <h2 class="section-title">Selected Publications from My Group</h2>
+                        <h2 class="section-title">Selected Publications</h2>
                         <a href="https://scholar.google.com/citations?user=IJMEC2EAAAAJ&hl=en" class="pub-link" target="_blank" rel="noopener">
                             View all publications on Google Scholar
                             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -719,7 +746,7 @@
                     <ul class="pub-list">
                         <li class="pub-item">
                             <div class="pub-title">Transient global overturning following the shutdown of North Atlantic deep water formation</div>
-                            <div class="pub-authors">Sun, S. and A. F. Thompson</div>
+                            <div class="pub-authors"><strong>Sun, S.</strong> and A. F. Thompson</div>
                             <div class="pub-venue">AGU Advances, 2026</div>
                             <a href="https://essopenarchive.org/doi/pdf/10.22541/essoar.15002872/v1?onload=true" class="pub-link" target="_blank" rel="noopener" aria-label="View preprint: Transient global overturning following the shutdown of North Atlantic deep water formation">
                                 Preprint
@@ -732,7 +759,7 @@
                         </li>
                         <li class="pub-item">
                             <div class="pub-title">Bipolar oceanic processes drive Indonesian Throughflow declines under climate warming</div>
-                            <div class="pub-authors">Wang, W., S. Sun, and L. Wu</div>
+                            <div class="pub-authors">Wang, W., <strong>S. Sun</strong>, and L. Wu</div>
                             <div class="pub-venue">Geophysical Research Letters, 2026</div>
                             <a href="https://doi.org/10.1029/2026gl121630" class="pub-link" target="_blank" rel="noopener" aria-label="View paper: Bipolar oceanic processes drive Indonesian Throughflow declines under climate warming">
                                 DOI: 10.1029/2026GL121630
@@ -745,7 +772,7 @@
                         </li>
                         <li class="pub-item">
                             <div class="pub-title">Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation under present-day climate conditions</div>
-                            <div class="pub-authors">Zhang, R., S. Sun, Z. Chen, and L. Wu</div>
+                            <div class="pub-authors">Zhang, R., <strong>S. Sun</strong>, Z. Chen, and L. Wu</div>
                             <div class="pub-venue">Communications Earth & Environment, 2025</div>
                             <a href="https://doi.org/10.1038/s43247-025-02097-4" class="pub-link" target="_blank" rel="noopener" aria-label="View paper: Limited impacts of the Agulhas Leakage on the Atlantic Meridional Overturning Circulation">
                                 DOI: 10.1038/s43247-025-02097-4
@@ -758,7 +785,7 @@
                         </li>
                         <li class="pub-item">
                             <div class="pub-title">Transient overturning changes cause global upper-ocean nutrient decline in a warming climate<span class="pub-badge">Editor's Highlight</span></div>
-                            <div class="pub-authors">Sun, S., A. F. Thompson, J. Yu, and L. Wu</div>
+                            <div class="pub-authors"><strong>Sun, S.</strong>, A. F. Thompson, J. Yu, and L. Wu</div>
                             <div class="pub-venue">Nature Communications, 2024</div>
                             <a href="https://doi.org/10.1038/s41467-024-52200-0" class="pub-link" target="_blank" rel="noopener" aria-label="View paper: Transient overturning changes cause global upper-ocean nutrient decline in a warming climate">
                                 DOI: 10.1038/s41467-024-52200-0
@@ -771,7 +798,7 @@
                         </li>
                         <li class="pub-item">
                             <div class="pub-title">Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming</div>
-                            <div class="pub-authors">Shan, X., S. Sun, L. Wu, and M. Spall</div>
+                            <div class="pub-authors">Shan, X., <strong>S. Sun</strong>, L. Wu, and M. Spall</div>
                             <div class="pub-venue">Nature Communications, 2024</div>
                             <a href="https://doi.org/10.1038/s41467-024-51449-9" class="pub-link" target="_blank" rel="noopener" aria-label="View paper: Role of the Labrador Current in the Atlantic Meridional Overturning Circulation responses to greenhouse warming">
                                 DOI: 10.1038/s41467-024-51449-9
@@ -784,7 +811,7 @@
                         </li>
                         <li class="pub-item">
                             <div class="pub-title">Rapid 21<sup>st</sup> century weakening of the Agulhas Current in a warming climate</div>
-                            <div class="pub-authors">Zhang, R., S. Sun, et al.</div>
+                            <div class="pub-authors">Zhang, R., <strong>S. Sun</strong>, et al.</div>
                             <div class="pub-venue">Geophysical Research Letters, 2023</div>
                             <a href="https://doi.org/10.1029/2022gl102070" class="pub-link" target="_blank" rel="noopener" aria-label="View paper: Rapid 21st century weakening of the Agulhas Current in a warming climate">
                                 DOI: 10.1029/2022GL102070
@@ -797,7 +824,7 @@
                         </li>
                         <li class="pub-item">
                             <div class="pub-title">Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation</div>
-                            <div class="pub-authors">Sun, S., A. F. Thompson, S.-P. Xie, and S.-M. Long</div>
+                            <div class="pub-authors"><strong>Sun, S.</strong>, A. F. Thompson, S.-P. Xie, and S.-M. Long</div>
                             <div class="pub-venue">Journal of Climate, 2022</div>
                             <a href="https://doi.org/10.1175/jcli-d-21-0346.1" class="pub-link" target="_blank" rel="noopener" aria-label="View paper: Indo-Pacific warming induced by a weakening of the Atlantic Meridional Overturning Circulation">
                                 DOI: 10.1175/JCLI-D-21-0346.1
@@ -810,7 +837,7 @@
                         </li>
                         <li class="pub-item">
                             <div class="pub-title">Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity</div>
-                            <div class="pub-authors">Sun, S. and I. Eisenman</div>
+                            <div class="pub-authors"><strong>Sun, S.</strong> and I. Eisenman</div>
                             <div class="pub-venue">Nature Communications, 2021</div>
                             <a href="https://doi.org/10.1038/s41467-021-21412-z" class="pub-link" target="_blank" rel="noopener" aria-label="View paper: Observed Antarctic sea ice expansion reproduced in a climate model after correcting biases in sea ice drift velocity">
                                 DOI: 10.1038/s41467-021-21412-z
@@ -823,7 +850,7 @@
                         </li>
                         <li class="pub-item">
                             <div class="pub-title">Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation: The ocean's transient conveyor belt<span class="pub-badge">Eos Editor's Highlight</span></div>
-                            <div class="pub-authors">Sun, S. and A. F. Thompson</div>
+                            <div class="pub-authors"><strong>Sun, S.</strong> and A. F. Thompson</div>
                             <div class="pub-venue">Geophysical Research Letters, 2020</div>
                             <a href="https://doi.org/10.1029/2020gl090615" class="pub-link" target="_blank" rel="noopener" aria-label="View paper: Centennial changes in the Indonesian Throughflow connected to the Atlantic Meridional Overturning Circulation">
                                 DOI: 10.1029/2020GL090615
@@ -836,7 +863,7 @@
                         </li>
                         <li class="pub-item">
                             <div class="pub-title">Transient overturning compensation between Atlantic and Indo-Pacific basins</div>
-                            <div class="pub-authors">Sun, S., A. F. Thompson, and I. Eisenman</div>
+                            <div class="pub-authors"><strong>Sun, S.</strong>, A. F. Thompson, and I. Eisenman</div>
                             <div class="pub-venue">Journal of Physical Oceanography, 2020</div>
                             <a href="https://doi.org/10.1175/jpo-d-20-0060.1" class="pub-link" target="_blank" rel="noopener" aria-label="View paper: Transient overturning compensation between Atlantic and Indo-Pacific basins">
                                 DOI: 10.1175/JPO-D-20-0060.1
